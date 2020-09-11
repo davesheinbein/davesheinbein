@@ -43,8 +43,9 @@ function niceMeet() {
 ##### 💬 Ask me about my interest in sofware design: Front-End, React, etc
 
 ##### 📫 How to reach me: [Davidsheinbeindev@gmail.com](Davidsheinbeindev@gmail.com) or on LinkedIn
-![LinkedIn](https://www.flaticon.com/svg/static/icons/svg/174/174857.svg =10x10) 
 ##### [LinkedIn](www.linkedin.com/in/david-sheinbein/) - www.linkedin.com/in/david-sheinbein/
+
+#### View my [Portfolio](http://www.davidsheinbeinportfolio.com/)
 ##### [Portfolio](http://www.davidsheinbeinportfolio.com/) - http://www.davidsheinbeinportfolio.com/ 
 
 <!--
