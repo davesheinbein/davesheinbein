@@ -58,5 +58,5 @@ function niceMeet() {
 ##### [Davidsheinbeindev@gmail.com](Davidsheinbeindev@gmail.com) or [LinkedIn](www.linkedin.com/in/david-sheinbein/).
 ##### :link: [LinkedIn](www.linkedin.com/in/david-sheinbein/) - www.linkedin.com/in/david-sheinbein/
 
-### View my [Portfolio](http://www.davidsheinbeinportfolio.com/)
-#### :link: [Portfolio](http://www.davidsheinbeinportfolio.com/) - http://www.davidsheinbeinportfolio.com/ 
+#### View my [Portfolio](http://www.davidsheinbeinportfolio.com/)
+##### :link: [Portfolio](http://www.davidsheinbeinportfolio.com/) - http://www.davidsheinbeinportfolio.com/ 
