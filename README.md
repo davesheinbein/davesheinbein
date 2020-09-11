@@ -44,8 +44,8 @@ function niceMeet() {
 
 ##### 📫 How to reach me: [Davidsheinbeindev@gmail.com](Davidsheinbeindev@gmail.com) or on LinkedIn
 ![LinkedIn](https://www.flaticon.com/svg/static/icons/svg/174/174857.svg) 
-##### [LinkedIn](www.linkedin.com/in/david-sheinbein/)
-##### [Portfolio](http://www.davidsheinbeinportfolio.com/) 
+##### [LinkedIn](www.linkedin.com/in/david-sheinbein/) - www.linkedin.com/in/david-sheinbein/
+##### [Portfolio](http://www.davidsheinbeinportfolio.com/) - http://www.davidsheinbeinportfolio.com/ 
 
 <!--
 **davesheinbein/davesheinbein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
