@@ -14,10 +14,8 @@ function niceMeet() {
 
 ##### Programming is one of the most versatile and important skills a person can have in today's business world. It enables developers to craft programs unique to any business's specific needs thus facilitating that business' growth.
 
-##### Digital marketing allows companies to reach enormous audiences in a way that is both cost effective and measurable. It allows people to target specific goals and build campaigns to support and achieve their marketing goals.
-
 ##### It excites me to work with established companies and contributing to collective goals. It excites me to work with startups, helping them from the ground up in figuring what they are building and helping them do it. I enjoy solving challenges as they arise in the workplace and take pride in the work I accomplish.
-
+- - -
 
 ### Skills
 #### Full-Stack Software Engineering Skills:
@@ -35,7 +33,7 @@ function niceMeet() {
 #### Creative Skills:
 
 ##### Wireframing | Adobe Creative Suite | Photography | Videography | Canva | Web Design | Undraw | LottieFiles | Google Fonts 
-
+- - -
 
 #### 😄 Pronouns: He, Him
 ##### He, Him
@@ -54,11 +52,10 @@ function niceMeet() {
 
 #### 💬 Ask me about:
 ##### My interest in sofware design: Front-End, React, etc.
+- - -
 
 #### 📫 How to reach me:
 ##### [Davidsheinbeindev@gmail.com](Davidsheinbeindev@gmail.com) or [LinkedIn](www.linkedin.com/in/david-sheinbein/).
-
-#### Visit my [LinkedIn](www.linkedin.com/in/david-sheinbein/)
 ##### :link: [LinkedIn](www.linkedin.com/in/david-sheinbein/) - www.linkedin.com/in/david-sheinbein/
 
 ### View my [Portfolio](http://www.davidsheinbeinportfolio.com/)
