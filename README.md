@@ -10,6 +10,9 @@ function niceMeet() {
 }
 ```
 
+### View my [Portfolio](http://www.davidsheinbeinportfolio.com/)
+#### :link: [Portfolio](http://www.davidsheinbeinportfolio.com/) - http://www.davidsheinbeinportfolio.com/ 
+
 #### I enjoy helping people discover and implement interesting ways to scale and grow their businesses and helping them reach their goals in a logical and creative way.
 
 #### Programming is one of the most versatile and important skills a person can have in today's business world. It enables developers to craft programs unique to any business's specific needs thus facilitating that business' growth.
@@ -35,18 +38,30 @@ function niceMeet() {
 
 ##### Wireframing | Adobe Creative Suite | Photography | Videography | Canva | Web Design | Undraw | LottieFiles | Google Fonts 
 
-##### 😄 Pronouns: He, Him
-##### 🔭 I’m currently working on fun-functionalities 
-##### 🌱 I’m currently learning React Native
-##### 👯 I’m looking to collaborate on React Projects
-##### 🤔 I’m looking for work and projects to collaborate on 
-##### 💬 Ask me about my interest in sofware design: Front-End, React, etc
+#### 😄 Pronouns: He, Him
+##### He, Him
 
-##### 📫 How to reach me: [Davidsheinbeindev@gmail.com](Davidsheinbeindev@gmail.com) or on LinkedIn
-##### [LinkedIn](www.linkedin.com/in/david-sheinbein/) - www.linkedin.com/in/david-sheinbein/
+#### 🔭 I’m currently working on: 
+##### [fun-functionalities](https://github.com/davesheinbein/fun-functionalities)
 
-#### View my [Portfolio](http://www.davidsheinbeinportfolio.com/)
-##### [Portfolio](http://www.davidsheinbeinportfolio.com/) - http://www.davidsheinbeinportfolio.com/ 
+#### 🌱 I’m currently learning:
+##### React Native
+
+#### 👯 I’m looking to:
+##### Collaborate on React Projects.
+
+#### 🤔 I’m looking for:
+##### Full-time, part-time work and projects to collaborate on.
+
+#### 💬 Ask me about:
+##### My interest in sofware design: Front-End, React, etc.
+
+#### 📫 How to reach me:
+##### [Davidsheinbeindev@gmail.com](Davidsheinbeindev@gmail.com) or on [LinkedIn](www.linkedin.com/in/david-sheinbein/).
+
+#### Visit my [LinkedIn](www.linkedin.com/in/david-sheinbein/)
+##### :link: [LinkedIn](www.linkedin.com/in/david-sheinbein/) - www.linkedin.com/in/david-sheinbein/
+
 
 <!--
 **davesheinbein/davesheinbein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
