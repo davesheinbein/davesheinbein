@@ -1,4 +1,4 @@
-##### -  ![Do Something Great](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80): 
+##### -  ![Do Something Great](https://images.unsplash.com/photo-1511465390398-532913e8328d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1780&q=80): 
 
 ```javascript
 function helloWorld() {
@@ -20,15 +20,19 @@ function niceMeet() {
 
 
 #### Full-Stack Software Engineering Skills:
+
 ##### HTML5 | CSS | SASS | SCSS | JavaScript | Express | Node.js | Django | Mongoose | MongoDB | Python | PostgreSQL | React | React-spring | Animations | Axios | Nodemailer
 
 #### Developer Tools:
+
 ##### Git | GitHub | MongoDB Atlas | Postman | Heroku | Namecheap | AWS | Third Party APIs
 
 #### Project Management Skills:
-##### Schedule and Timeline Management | Outreach Strategy and Management | Research | Microsoft Office Suite | Teamwork | Marketing
+
+##### Scheduling | Timeline Management | Outreach Strategy and Management | Research | Microsoft Office Suite | Teamwork | Marketing
 
 #### Creative Skills:
+
 ##### Wireframing | Adobe Creative Suite | Photography | Videography | Canva | Web Design | Undraw | LottieFiles | Google Fonts 
 
 ##### - 😄 Pronouns: He, Him
