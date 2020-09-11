@@ -1,4 +1,4 @@
-![Do Something Great](https://images.unsplash.com/photo-1511465390398-532913e8328d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80)
+![Do Something Great](https://images.unsplash.com/photo-1511465390398-532913e8328d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80)
 
 ```javascript
 function helloWorld() {
