@@ -1,4 +1,14 @@
-### Hi there 👋
+##### -  ![Do Something Great](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80): 
+
+```javascript
+function helloWorld() {
+ console.log("Hello World!");
+}
+
+function niceMeet() {
+ console.log("Nice to meet you!");
+}
+```
 
 #### I enjoy helping people discover and implement interesting ways to scale and grow their businesses and helping them reach their goals in a logical and creative way.
 
@@ -27,13 +37,6 @@
 ##### - 👯 I’m looking to collaborate on React Projects
 ##### - 🤔 I’m looking for work and projects to collaborate on 
 ##### - 💬 Ask me about my interest in sofware design: Front-End, React, etc
-
-```javascript
-function test() {
- console.log("look ma’, no spaces");
-}
-```
-
 
 ##### - 📫 How to reach me: [Davidsheinbeindev@gmail.com](Davidsheinbeindev@gmail.com)
 ##### -  ![LinkedIn](https://www.flaticon.com/svg/static/icons/svg/174/174857.svg): 
