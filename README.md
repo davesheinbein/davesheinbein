@@ -35,7 +35,7 @@ function niceMeet() {
 ##### Wireframing | Adobe Creative Suite | Photography | Videography | Canva | Web Design | Undraw | LottieFiles | Google Fonts 
 - - -
 
-#### 😄 Pronouns: He, Him
+#### 😄 Pronouns:
 ##### He, Him
 
 #### 🔭 I’m currently working on: 
