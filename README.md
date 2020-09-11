@@ -28,9 +28,17 @@
 ##### - 🤔 I’m looking for work and projects to collaborate on 
 ##### - 💬 Ask me about my interest in sofware design: Front-End, React, etc
 
+```javascript
+function test() {
+ console.log("look ma’, no spaces");
+}
+```
+
+
 ##### - 📫 How to reach me: [Davidsheinbeindev@gmail.com](Davidsheinbeindev@gmail.com)
 ##### -  ![LinkedIn](https://www.flaticon.com/svg/static/icons/svg/174/174857.svg): 
-##### -  ![Portfolio](http://www.davidsheinbeinportfolio.com/): 
+##### -  [LinkedIn](www.linkedin.com/in/david-sheinbein/): 
+##### -  [Portfolio](http://www.davidsheinbeinportfolio.com/): 
 
 <!--
 **davesheinbein/davesheinbein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
