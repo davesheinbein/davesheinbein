@@ -1,4 +1,4 @@
-##### -  ![Do Something Great](https://images.unsplash.com/photo-1511465390398-532913e8328d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1780&q=80): 
+![Do Something Great](https://images.unsplash.com/photo-1511465390398-532913e8328d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1780&q=80): 
 
 ```javascript
 function helloWorld() {
@@ -35,17 +35,17 @@ function niceMeet() {
 
 ##### Wireframing | Adobe Creative Suite | Photography | Videography | Canva | Web Design | Undraw | LottieFiles | Google Fonts 
 
-##### - 😄 Pronouns: He, Him
-##### - 🔭 I’m currently working on fun-functionalities 
-##### - 🌱 I’m currently learning React Native
-##### - 👯 I’m looking to collaborate on React Projects
-##### - 🤔 I’m looking for work and projects to collaborate on 
-##### - 💬 Ask me about my interest in sofware design: Front-End, React, etc
+##### 😄 Pronouns: He, Him
+##### 🔭 I’m currently working on fun-functionalities 
+##### 🌱 I’m currently learning React Native
+##### 👯 I’m looking to collaborate on React Projects
+##### 🤔 I’m looking for work and projects to collaborate on 
+##### 💬 Ask me about my interest in sofware design: Front-End, React, etc
 
-##### - 📫 How to reach me: [Davidsheinbeindev@gmail.com](Davidsheinbeindev@gmail.com)
-##### -  ![LinkedIn](https://www.flaticon.com/svg/static/icons/svg/174/174857.svg): 
-##### -  [LinkedIn](www.linkedin.com/in/david-sheinbein/): 
-##### -  [Portfolio](http://www.davidsheinbeinportfolio.com/): 
+##### 📫 How to reach me: [Davidsheinbeindev@gmail.com](Davidsheinbeindev@gmail.com) or on LinkedIn
+![LinkedIn](https://www.flaticon.com/svg/static/icons/svg/174/174857.svg): 
+##### [LinkedIn](www.linkedin.com/in/david-sheinbein/): 
+##### [Portfolio](http://www.davidsheinbeinportfolio.com/): 
 
 <!--
 **davesheinbein/davesheinbein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
