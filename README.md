@@ -39,7 +39,7 @@ function niceMeet() {
 ##### He, Him
 
 #### 🔭 I’m currently working on: 
-##### [fun-functionalities](https://github.com/davesheinbein/fun-functionalities)
+##### [Fun Functionalities](https://github.com/davesheinbein/fun-functionalities)
 
 #### 🌱 I’m currently learning:
 ##### React Native
