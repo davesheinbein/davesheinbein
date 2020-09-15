@@ -13,12 +13,12 @@ function helloWorld() {
 ##### HTML5 | CSS | SASS | SCSS | JavaScript | Express | Node.js | Django | Mongoose | MongoDB | Python | PostgreSQL | React | React-spring | Animations | Axios | Nodemailer | Git | GitHub | MongoDB Atlas | Postman | Heroku | Namecheap | AWS | Third Party APIs | Scheduling | Timeline Management | Outreach Strategy and Management | Research | Microsoft Office Suite | Teamwork | Marketing | Wireframing | Adobe Creative Suite | Photography | Videography | Canva | Web Design | Undraw | LottieFiles | Google Fonts 
 - - -
 
-#### 😄 Pronouns: ##### He, Him
-#### 🔭 I’m currently working on: ##### [Fun Functionalities](https://github.com/davesheinbein/fun-functionalities)
-#### 🌱 I’m currently learning: ##### React Native
-#### 👯 I’m looking to: ##### Collaborate on React Projects.
-#### 🤔 I’m looking for: ##### Full-time, part-time work and projects to collaborate on.
-#### 💬 Ask me about: ##### My interest in sofware design: Front-End, React, etc.
+#### 😄 Pronouns: He, Him
+#### 🔭 I’m currently working on: [Fun Functionalities](https://github.com/davesheinbein/fun-functionalities)
+#### 🌱 I’m currently learning: React Native
+#### 👯 I’m looking to: Collaborate on React Projects.
+#### 🤔 I’m looking for: Full-time, part-time work and projects to collaborate on.
+#### 💬 Ask me about: My interest in sofware design: Front-End, React, etc.
 - - -
 #### 📫 How to reach me:
 ##### [Davidsheinbeindev@gmail.com](Davidsheinbeindev@gmail.com) or [LinkedIn](www.linkedin.com/in/david-sheinbein/).
