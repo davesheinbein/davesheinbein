@@ -15,26 +15,19 @@ function helloWorld() {
 
 #### 😄 Pronouns:
 ##### He, Him
-
 #### 🔭 I’m currently working on: 
 ##### [Fun Functionalities](https://github.com/davesheinbein/fun-functionalities)
-
 #### 🌱 I’m currently learning:
 ##### React Native
-
 #### 👯 I’m looking to:
 ##### Collaborate on React Projects.
-
 #### 🤔 I’m looking for:
 ##### Full-time, part-time work and projects to collaborate on.
-
 #### 💬 Ask me about:
 ##### My interest in sofware design: Front-End, React, etc.
 - - -
-
 #### 📫 How to reach me:
 ##### [Davidsheinbeindev@gmail.com](Davidsheinbeindev@gmail.com) or [LinkedIn](www.linkedin.com/in/david-sheinbein/).
 ##### :link: [LinkedIn](www.linkedin.com/in/david-sheinbein/) - www.linkedin.com/in/david-sheinbein/
-
 #### View my [Portfolio](http://www.davidsheinbeinportfolio.com/)
 ##### :link: [Portfolio](http://www.davidsheinbeinportfolio.com/) - http://www.davidsheinbeinportfolio.com/ 
