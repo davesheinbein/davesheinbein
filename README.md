@@ -4,10 +4,6 @@
 function helloWorld() {
  console.log("Hello World!");
 }
-
-function niceMeet() {
- console.log("Nice to meet you!");
-}
 ```
 ### About Me
 #####  I enjoy helping people discover and implement interesting ways to scale and grow their businesses and helping them reach their goals in a logical and creative way.
@@ -17,22 +13,8 @@ function niceMeet() {
 #####  It excites me to work with established companies and contributing to collective goals. It excites me to work with startups, helping them from the ground up in figuring what they are building and helping them do it. I enjoy solving challenges as they arise in the workplace and take pride in the work I accomplish.
 - - -
 
-### Skills
-#### Full-Stack Software Engineering Skills:
-
-##### HTML5 | CSS | SASS | SCSS | JavaScript | Express | Node.js | Django | Mongoose | MongoDB | Python | PostgreSQL | React | React-spring | Animations | Axios | Nodemailer
-
-#### Developer Tools:
-
-##### Git | GitHub | MongoDB Atlas | Postman | Heroku | Namecheap | AWS | Third Party APIs
-
-#### Project Management Skills:
-
-##### Scheduling | Timeline Management | Outreach Strategy and Management | Research | Microsoft Office Suite | Teamwork | Marketing
-
-#### Creative Skills:
-
-##### Wireframing | Adobe Creative Suite | Photography | Videography | Canva | Web Design | Undraw | LottieFiles | Google Fonts 
+#### Skills
+##### HTML5 | CSS | SASS | SCSS | JavaScript | Express | Node.js | Django | Mongoose | MongoDB | Python | PostgreSQL | React | React-spring | Animations | Axios | Nodemailer | Git | GitHub | MongoDB Atlas | Postman | Heroku | Namecheap | AWS | Third Party APIs | Scheduling | Timeline Management | Outreach Strategy and Management | Research | Microsoft Office Suite | Teamwork | Marketing | Wireframing | Adobe Creative Suite | Photography | Videography | Canva | Web Design | Undraw | LottieFiles | Google Fonts 
 - - -
 
 #### 😄 Pronouns:
