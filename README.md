@@ -16,7 +16,7 @@ function helloWorld() {
 #### 😄 Pronouns: He, Him
 #### 🔭 I’m currently working on: [Fun Functionalities](https://github.com/davesheinbein/fun-functionalities)
 #### 🌱 I’m currently learning: React Native
-#### 👯 I’m looking to: Collaborate on React Projects.
+#### 👯 I’m looking to: Work, Collaborate, & build coding projects.
 #### 🤔 I’m looking for: Full-time, part-time work and projects to collaborate on.
 #### 💬 Ask me about: My interest in sofware design: Front-End, React, etc.
 - - -
