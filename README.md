@@ -1,4 +1,5 @@
-![David Sheinbein Banner](//s.imgur.com/min/embed.js)
+![David Sheinbein Banner](https://imgur.com/G8N23cM)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/gy7EfJB" data-context="false" ><a href="//imgur.com/a/gy7EfJB"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ```javascript
 function helloWorld() {
