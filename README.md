@@ -25,3 +25,4 @@ function helloWorld() {
 ##### [Davidsheinbeindev@gmail.com](Davidsheinbeindev@gmail.com) or [LinkedIn](www.linkedin.com/in/david-sheinbein/).
 #### View my [Portfolio](http://www.davidsheinbeinportfolio.com/)
 
+#### For more information about me or to schedule a meeting, use this link  - https://linktr.ee/dsDev
