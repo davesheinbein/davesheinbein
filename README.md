@@ -1,4 +1,4 @@
-![David Sheinbein Banner]('https://imgur.com/G8N23cM')
+![David Sheinbein Banner](https://imgur.com/G8N23cM)
 
 ```javascript
 function helloWorld() {
