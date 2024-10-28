@@ -13,6 +13,21 @@ function helloWorld() {
 ##### HTML5 | CSS | SASS | SCSS | JavaScript | Express | Node.js | Django | Mongoose | MongoDB | Python | PostgreSQL | React | React-spring | Animations | Axios | Nodemailer | Git | GitHub | MongoDB Atlas | Postman | Heroku | Namecheap | AWS | Third Party APIs | Scheduling | Timeline Management | Outreach Strategy and Management | Research | Microsoft Office Suite | Teamwork | Marketing | Wireframing | Adobe Creative Suite | Photography | Videography | Canva | Web Design | Undraw | LottieFiles | Google Fonts 
 - - -
 
+## Certifications
+
+David has earned multiple certifications from FreeCodeCamp, showcasing a well-rounded skill set in development. You can view these certifications through the following links:
+
+| Certification Title                        | Issuer         | Date       | Skills                                                                                   | Certification Link                                                                 |
+|--------------------------------------------|----------------|------------|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| Back End Development and APIs              | FreeCodeCamp   | Oct 2024   | MongoDB, Express.js, Node.js, HTML5, JavaScript, CSS                                    | [Link](https://www.freecodecamp.org/certification/dsDev/back-end-development-and-apis) |
+| Data Visualization                         | FreeCodeCamp   | Oct 2024   | HTML5, CSS, JavaScript, D3.js, TopoJSON                                                 | [Link](https://www.freecodecamp.org/certification/dsDev/data-visualization)             |
+| Front End Development Libraries            | FreeCodeCamp   | Oct 2024   | HTML5, CSS, Git, GitHub                                                                 | [Link](https://www.freecodecamp.org/certification/dsDev/front-end-libraries)           |
+| JavaScript Algorithms and Data Structures  | FreeCodeCamp   | Oct 2024   | JavaScript, HTML5, CSS, Git, GitHub                                                     | [Link](https://www.freecodecamp.org/certification/dsDev/javascript-algorithms-and-data-structures-v8) |
+| Responsive Web Design                      | FreeCodeCamp   | Oct 2024   | HTML5, CSS, JavaScript, Git, GitHub                                                     | [Link](https://www.freecodecamp.org/certification/dsDev/responsive-web-design)         |
+| Scientific Computing with Python           | FreeCodeCamp   | Oct 2024   | Python, Git, GitHub                                                                     | [Link](https://www.freecodecamp.org/certification/dsDev/scientific-computing-with-python-v7) |
+
+---
+
 #### 😄 Pronouns: He, Him
 #### 🔭 I’m currently working on: [Fun Functionalities](https://github.com/davesheinbein/fun-functionalities), [Spotify Clone](https://github.com/davesheinbein/spotify-clone-ds`), [Amazon Clone](https://github.com/davesheinbein/amazon-clone-ds)
 
