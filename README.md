@@ -168,6 +168,9 @@ recommend him for any front-end development position."
 
 - Advanced [Three.js](https://threejs.org/) techniques and
   exploring WebGL for enhanced graphics performance.
+- Taking the
+  [Three.js Journey](https://threejs-journey.com/) course to
+  deepen my understanding of Three.js.
 
 #### 👯 I’m looking to:
 
