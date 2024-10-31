@@ -20,44 +20,43 @@
 
 ### Skills
 
-**Languages:**  
+**Languages:**
 
-  <img src="https://simpleicons.org/icons/html5.svg" style="width: 24px; height: 24px;" alt="HTML5 Logo" /> HTML5, <img src="https://simpleicons.org/icons/javascript.svg" style="width: 24px; height: 24px;" alt="JavaScript Logo" /> JavaScript, <img src="https://simpleicons.org/icons/markdown.svg" style="width: 24px; height: 24px;" alt="Markdown Logo" /> Markdown, <img src="https://simpleicons.org/icons/sass.svg" style="width: 24px; height: 24px;" alt="SASS Logo" /> SASS, <img src="https://simpleicons.org/icons/sass.svg" style="width: 24px; height: 24px;" alt="SCSS Logo" /> SCSS, <img src="https://simpleicons.org/icons/typescript.svg" style="width: 24px; height: 24px;" alt="TypeScript Logo" /> TypeScript, <img src="https://simpleicons.org/icons/python.svg" style="width: 24px; height: 24px;" alt="Python Logo" /> Python, <img src="https://simpleicons.org/icons/php.svg" style="width: 24px; height: 24px;" alt="PHP Logo" /> PHP
+<img src="https://simpleicons.org/icons/html5.svg" style="width: 24px; height: 24px;" alt="HTML5 Logo" /> HTML5, <img src="https://simpleicons.org/icons/javascript.svg" style="width: 24px; height: 24px;" alt="JavaScript Logo" /> JavaScript, <img src="https://simpleicons.org/icons/markdown.svg" style="width: 24px; height: 24px;" alt="Markdown Logo" /> Markdown, <img src="https://simpleicons.org/icons/sass.svg" style="width: 24px; height: 24px;" alt="SASS Logo" /> SASS, <img src="https://simpleicons.org/icons/sass.svg" style="width: 24px; height: 24px;" alt="SCSS Logo" /> SCSS, <img src="https://simpleicons.org/icons/typescript.svg" style="width: 24px; height: 24px;" alt="TypeScript Logo" /> TypeScript, <img src="https://simpleicons.org/icons/django.svg" style="width: 24px; height: 24px;" alt="Django Logo" /> Django, <img src="https://simpleicons.org/icons/express.svg" style="width: 24px; height: 24px;" alt="Express Logo" /> Express, <img src="https://simpleicons.org/icons/nodedotjs.svg" style="width: 24px; height: 24px;" alt="Node.js Logo" /> Node.js, <img src="https://simpleicons.org/icons/php.svg" style="width: 24px; height: 24px;" alt="PHP Logo" /> PHP, <img src="https://simpleicons.org/icons/python.svg" style="width: 24px; height: 24px;" alt="Python Logo" /> Python
 
-**Libraries & Frameworks:**  
+**Languages & Frameworks:**
 
-  <img src="https://simpleicons.org/icons/angular.svg" style="width: 24px; height: 24px;" alt="Angular Logo" /> Angular, <img src="https://simpleicons.org/icons/bootstrap.svg" style="width: 24px; height: 24px;" alt="Bootstrap Logo" /> Bootstrap, <img src="https://simpleicons.org/icons/d3dotjs.svg" style="width: 24px; height: 24px;" alt="D3 Logo" /> D3, <img src="https://simpleicons.org/icons/nextdotjs.svg" style="width: 24px; height: 24px;" alt="Next.js Logo" /> Next.js, <img src="https://simpleicons.org/icons/react.svg" style="width: 24px; height: 24px;" alt="React Logo" /> React, <img src="https://simpleicons.org/icons/spring.svg" style="width: 24px; height: 24px;" alt="React-Spring Logo" /> React-Spring, <img src="https://simpleicons.org/icons/redux.svg" style="width: 24px; height: 24px;" alt="Redux Logo" /> Redux, <img src="https://simpleicons.org/icons/reactivex.svg" style="width: 24px; height: 24px;" alt="RxJS Logo" /> RxJS, <img src="https://simpleicons.org/icons/styledcomponents.svg" style="width: 24px; height: 24px;" alt="Styled Components Logo" /> Styled Components, 
-  <img src="https://simpleicons.org/icons/tailwindcss.svg" style="width: 24px; height: 24px;" alt="Tailwind CSS Logo" /> Tailwind CSS, <img src="https://simpleicons.org/icons/django.svg" style="width: 24px; height: 24px;" alt="Django Logo" /> Django, <img src="https://simpleicons.org/icons/express.svg" style="width: 24px; height: 24px;" alt="Express Logo" /> Express, <img src="https://simpleicons.org/icons/nodedotjs.svg" style="width: 24px; height: 24px;" alt="Node.js Logo" /> Node.js
+<img src="https://simpleicons.org/icons/angular.svg" style="width: 24px; height: 24px;" alt="Angular Logo" /> Angular, <img src="https://simpleicons.org/icons/bootstrap.svg" style="width: 24px; height: 24px;" alt="Bootstrap Logo" /> Bootstrap, <img src="https://simpleicons.org/icons/d3dotjs.svg" style="width: 24px; height: 24px;" alt="D3 Logo" /> D3, <img src="https://simpleicons.org/icons/nextdotjs.svg" style="width: 24px; height: 24px;" alt="Next.js Logo" /> Next.js, <img src="https://simpleicons.org/icons/react.svg" style="width: 24px; height: 24px;" alt="React Logo" /> React, <img src="https://simpleicons.org/icons/spring.svg" style="width: 24px; height: 24px;" alt="React-Spring Logo" /> React-Spring, <img src="https://simpleicons.org/icons/redux.svg" style="width: 24px; height: 24px;" alt="Redux Logo" /> Redux, <img src="https://simpleicons.org/icons/reactivex.svg" style="width: 24px; height: 24px;" alt="RxJS Logo" /> RxJS, <img src="https://simpleicons.org/icons/styledcomponents.svg" style="width: 24px; height: 24px;" alt="Styled Components Logo" /> Styled Components, <img src="https://simpleicons.org/icons/tailwindcss.svg" style="width: 24px; height: 24px;" alt="Tailwind CSS Logo" /> Tailwind CSS
 
-**Databases:**  
+**Tools & Technologies:**
 
-  <img src="https://simpleicons.org/icons/amazons3.svg" style="width: 24px; height: 24px;" alt="Amazon S3 Logo" /> Amazon S3, <img src="https://simpleicons.org/icons/firebase.svg" style="width: 24px; height: 24px;" alt="Firebase Logo" /> Firebase, <img src="https://simpleicons.org/icons/mongodb.svg" style="width: 24px; height: 24px;" alt="MongoDB Logo" /> MongoDB, <img src="https://simpleicons.org/icons/mongoose.svg" style="width: 24px; height: 24px;" alt="Mongoose Logo" /> Mongoose, <img src="https://simpleicons.org/icons/mysql.svg" style="width: 24px; height: 24px;" alt="MySQL Logo" /> MySQL, <img src="https://simpleicons.org/icons/postgresql.svg" style="width: 24px; height: 24px;" alt="PostgreSQL Logo" /> PostgreSQL
+<img src="https://simpleicons.org/icons/babel.svg" style="width: 24px; height: 24px;" alt="Babel Logo" /> Babel, <img src="https://simpleicons.org/icons/figma.svg" style="width: 24px; height: 24px;" alt="Figma Logo" /> Figma, <img src="https://simpleicons.org/icons/jest.svg" style="width: 24px; height: 24px;" alt="Jest Logo" /> Jest, <img src="https://simpleicons.org/icons/npm.svg" style="width: 24px; height: 24px;" alt="npm Logo" /> npm, <img src="https://simpleicons.org/icons/nvm.svg" style="width: 24px; height: 24px;" alt="nvm Logo" /> nvm, <img src="https://simpleicons.org/icons/prettier.svg" style="width: 24px; height: 24px;" alt="Prettier Logo" /> Prettier, <img src="https://simpleicons.org/icons/webpack.svg" style="width: 24px; height: 24px;" alt="Webpack Logo" /> Webpack, <img src="https://i.imgur.com/AB7jMIx.png" style="width: 24px; height: 24px;" alt="Zeplin Logo" /> Zeplin
 
-**Version Control:**  
+**Databases:**
 
-  <img src="https://simpleicons.org/icons/git.svg" style="width: 24px; height: 24px;" alt="Git Logo" /> Git, <img src="https://simpleicons.org/icons/github.svg" style="width: 24px; height: 24px;" alt="GitHub Logo" /> GitHub, <img src="https://simpleicons.org/icons/gitlab.svg" style="width: 24px; height: 24px;" alt="GitLab Logo" /> GitLab
+<img src="https://simpleicons.org/icons/amazons3.svg" style="width: 24px; height: 24px;" alt="amazon S3 Logo" /> Amazon S3, <img src="https://simpleicons.org/icons/firebase.svg" style="width: 24px; height: 24px;" alt="Firebase Logo" /> Firebase, <img src="https://simpleicons.org/icons/mongodb.svg" style="width: 24px; height: 24px;" alt="MongoDB Logo" /> MongoDB, <img src="https://simpleicons.org/icons/mongoose.svg" style="width: 24px; height: 24px;" alt="Mongoose Logo" /> Mongoose, <img src="https://simpleicons.org/icons/mysql.svg" style="width: 24px; height: 24px;" alt="MySQL Logo" /> MySQL, <img src="https://simpleicons.org/icons/postgresql.svg" style="width: 24px; height: 24px;" alt="PostgreSQL Logo" /> PostgreSQL
 
-**APIs:**  
+**Version Control:**
 
-  <img src="https://simpleicons.org/icons/axios.svg" style="width: 24px; height: 24px;" alt="Axios Logo" /> Axios, <img src="https://simpleicons.org/icons/json.svg" style="width: 24px; height: 24px;" alt="JSON Logo" /> JSON, <img src="https://i.imgur.com/XqAlzDi.png" style="width: 24px; height: 24px;" alt="Nodemailer Logo" /> Nodemailer, <img src="https://i.imgur.com/cvnc33C.png" style="width: 24px; height: 24px;" alt="RESTful APIs Logo" /> RESTful APIs, <img src="https://i.imgur.com/eQZexg5.jpeg" style="width: 24px; height: 24px;" alt="Third-Party APIs Logo" /> Third-Party APIs
+<img src="https://simpleicons.org/icons/git.svg" style="width: 24px; height: 24px;" alt="Git Logo" /> Git, <img src="https://simpleicons.org/icons/github.svg" style="width: 24px; height: 24px;" alt="GitHub Logo" /> GitHub, <img src="https://simpleicons.org/icons/gitlab.svg" style="width: 24px; height: 24px;" alt="GitLab Logo" /> GitLab
 
-**Cloud & Deployment:**  
+**APIs:**
 
-  <img src="https://simpleicons.org/icons/amazonwebservices.svg" style="width: 24px; height: 24px;" alt="AWS Logo" /> AWS, <img src="https://simpleicons.org/icons/docker.svg" style="width: 24px; height: 24px;" alt="Docker Logo" /> Docker, <img src="https://simpleicons.org/icons/firebase.svg" style="width: 24px; height: 24px;" alt="Firebase Hosting Logo" /> Firebase Hosting, <img src="https://simpleicons.org/icons/heroku.svg" style="width: 24px; height: 24px;" alt="Heroku Logo" /> Heroku, <img src="https://simpleicons.org/icons/jenkins.svg" style="width: 24px; height: 24px;" alt="Jenkins Logo" /> Jenkins, <img src="https://simpleicons.org/icons/mongodb.svg" style="width: 24px; height: 24px;" alt="MongoDB Atlas Logo" /> MongoDB Atlas
+<img src="https://simpleicons.org/icons/axios.svg" style="width: 24px; height: 24px;" alt="Axios Logo" /> Axios, <img src="https://simpleicons.org/icons/json.svg" style="width: 24px; height: 24px;" alt="JSON Logo" /> JSON, <img src="https://i.imgur.com/XqAlzDi.png" style="width: 24px; height: 24px;" alt="Nodemailer Logo" /> Nodemailer, <img src="https://i.imgur.com/cvnc33C.png" style="width: 24px; height: 24px;" alt="RESTful APIs Logo" /> RESTful APIs, <img src="https://i.imgur.com/eQZexg5.jpeg" style="width: 24px; height: 24px;" alt="Third-Party APIs Logo" /> Third-Party APIs
 
-**Tools & Technologies:**  
+**Cloud & Deployment:**
 
-  <img src="https://simpleicons.org/icons/babel.svg" style="width: 24px; height: 24px;" alt="Babel Logo" /> Babel, <img src="https://simpleicons.org/icons/figma.svg" style="width: 24px; height: 24px;" alt="Figma Logo" /> Figma, <img src="https://simpleicons.org/icons/jest.svg" style="width: 24px; height: 24px;" alt="Jest Logo" /> Jest, <img src="https://simpleicons.org/icons/npm.svg" style="width: 24px; height: 24px;" alt="npm Logo" /> npm, <img src="https://simpleicons.org/icons/nvm.svg" style="width: 24px; height: 24px;" alt="nvm Logo" /> nvm, <img src="https://simpleicons.org/icons/prettier.svg" style="width: 24px; height: 24px;" alt="Prettier Logo" /> Prettier, <img src="https://simpleicons.org/icons/webpack.svg" style="width: 24px; height: 24px;" alt="Webpack Logo" /> Webpack
+<img src="https://simpleicons.org/icons/amazonwebservices.svg" style="width: 24px; height: 24px;" alt="AWS Logo" /> AWS, <img src="https://simpleicons.org/icons/docker.svg" style="width: 24px; height: 24px;" alt="Docker Logo" /> Docker, <img src="https://simpleicons.org/icons/firebase.svg" style="width: 24px; height: 24px;" alt="Firebase Hosting Logo" /> Firebase Hosting, <img src="https://simpleicons.org/icons/heroku.svg" style="width: 24px; height: 24px;" alt="Heroku Logo" /> Heroku, <img src="https://simpleicons.org/icons/jenkins.svg" style="width: 24px; height: 24px;" alt="Jenkins Logo" /> Jenkins, <img src="https://simpleicons.org/icons/mongodb.svg" style="width: 24px; height: 24px;" alt="MongoDB Atlas Logo" /> MongoDB Atlas
 
-**QA:**  
+**QA:**
 
-  <img src="https://simpleicons.org/icons/jest.svg" style="width: 24px; height: 24px;" alt="Jest Logo" /> Jest
+<img src="https://simpleicons.org/icons/jest.svg" style="width: 24px; height: 24px;" alt="Jest Logo" /> Jest
 
-#### Design & Communication
+**Design Tools:**
 
-- **Design Tools:** <img src="https://simpleicons.org/icons/adobe.svg" style="width: 24px; height: 24px;" alt="Adobe Creative Suite Logo" /> Adobe Creative Suite, <img src="https://simpleicons.org/icons/canva.svg" style="width: 24px; height: 24px;" alt="Canva Logo" /> Canva, <img src="https://simpleicons.org/icons/figma.svg" style="width: 24px; height: 24px;" alt="Figma Logo" /> Figma
+<img src="https://simpleicons.org/icons/adobe.svg" style="width: 24px; height: 24px;" alt="Adobe Creative Suite Logo" /> Adobe Creative Suite, <img src="https://simpleicons.org/icons/canva.svg" style="width: 24px; height: 24px;" alt="Canva Logo" /> Canva, <img src="https://simpleicons.org/icons/figma.svg" style="width: 24px; height: 24px;" alt="Figma Logo" /> Figma
 
-#### **And many more...**
+**And many more...**
 
 ---
 
@@ -128,6 +127,7 @@ I have earned multiple certifications, showcasing a well-rounded skill set in de
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Harnessing the Power of JavaScript for Modern Web Applications](https://medium.com/@davidsheinbeindev/harnessing-the-power-of-javascript-for-modern-web-applications-a312eb095b04?source=rss-1c389b2c5210------2)
 - [The Importance of Writing Clean, Maintainable Code](https://medium.com/@davidsheinbeindev/the-importance-of-writing-clean-maintainable-code-4b814d33592b?source=rss-1c389b2c5210------2)
 - [Angular vs. React: Choosing the Right Tool for Your Project](https://medium.com/@davidsheinbeindev/angular-vs-react-choosing-the-right-tool-for-your-project-009e3d612dbd?source=rss-1c389b2c5210------2)
