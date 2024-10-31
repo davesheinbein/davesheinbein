@@ -253,68 +253,170 @@ _Sr. Technical Program/Project Manager_
 
 ### Projects
 
-[![amazon-clone-ds](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=amazon-clone-ds)](https://github.com/davesheinbein/amazon-clone-ds)
-
-[![api-express-app-lab](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=api-express-app-lab)](https://github.com/davesheinbein/api-express-app-lab)
-
-[![binary-encoding](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=binary-encoding)](https://github.com/davesheinbein/binary-encoding)
-
-[![calculator](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=calculator)](https://github.com/davesheinbein/calculator)
-
-[![Chat-Bot](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=Chat-Bot)](https://github.com/davesheinbein/Chat-Bot)
-
-[![coderbyte_coding_challenge](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=coderbyte_coding_challenge)](https://github.com/davesheinbein/coderbyte_coding_challenge)
-
-[![conect-four-game](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=conect-four-game)](https://github.com/davesheinbein/conect-four-game)
-
-[![covid-tracker](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=covid-tracker)](https://github.com/davesheinbein/covid-tracker)
-
-[![django_finchcollector](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=django_finchcollector)](https://github.com/davesheinbein/django_finchcollector)
-
-[![django_todos](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=django_todos)](https://github.com/davesheinbein/django_todos)
-
-[![express-dev-skills](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=express-dev-skills)](https://github.com/davesheinbein/express-dev-skills)
-
-[![express-generator](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=express-generator)](https://github.com/davesheinbein/express-generator)
-
-[![fakeflix](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=netflix-clone-ds)](https://github.com/davesheinbein/netflix-clone-ds)
-
-[![fun-functionalities](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=fun-functionalities)](https://github.com/davesheinbein/fun-functionalities)
-
-[![inspirations](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=inspirations)](https://github.com/davesheinbein/inspirations)
-
-[![i-message-clone-ui](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=i-message-clone-ui)](https://github.com/davesheinbein/i-message-clone-ui)
-
-[![madlibs_python](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=madlibs_python)](https://github.com/davesheinbein/madlibs_python)
-
-[![mongoose-flights](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=mongoose-flights)](https://github.com/davesheinbein/mongoose-flights)
-
-[![nativeTimeTracker](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=nativeTimeTracker)](https://github.com/davesheinbein/nativeTimeTracker)
-
-[![nativeToDoList](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=nativeToDoList)](https://github.com/davesheinbein/nativeToDoList)
-
-[![netflix-clone-ds](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=netflix-clone-ds)](https://github.com/davesheinbein/netflix-clone-ds)
-
-[![neon-strobe-animation](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=neon-strobe-animation)](https://github.com/davesheinbein/neon-strobe-animation)
-
-[![python-exercises](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=python-exercises)](https://github.com/davesheinbein/python-exercises)
-
-[![quiz-app](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=react-quiz-typescript)](https://github.com/davesheinbein/react-quiz-typescript)
-
-[![react-context](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=react-context)](https://github.com/davesheinbein/react-context)
-
-[![react-quiz-typescript](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=react-quiz-typescript)](https://github.com/davesheinbein/react-quiz-typescript)
-
-[![react-star-wars](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=react-star-wars)](https://github.com/davesheinbein/react-star-wars)
-
-[![realtime-chat](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=realtime-chat)](https://github.com/davesheinbein/realtime-chat)
-
-[![realtime-circles](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=realtime-circles)](https://github.com/davesheinbein/realtime-circles)
-
-[![responsive-header](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=responsive-header)](https://github.com/davesheinbein/responsive-header)
-
-[![rock-paper-scissors](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=rock-paper-scissors)](https://github.com/davesheinbein/rock-paper-scissors)
-
-[![spotify-clone-ui](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=spotify-clone-ds)](https://github.com/davesheinbein/spotify-clone-ds)
-
-[![tic-tac-toe](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=tic-tac-toe)](https://github.com/davesheinbein/tic-tac-toe)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/amazon-clone-ds">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=amazon-clone-ds" alt="amazon-clone-ds">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/api-express-app-lab">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=api-express-app-lab" alt="api-express-app-lab">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/binary-encoding">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=binary-encoding" alt="binary-encoding">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/calculator">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=calculator" alt="calculator">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/Chat-Bot">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=Chat-Bot" alt="Chat-Bot">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/coderbyte_coding_challenge">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=coderbyte_coding_challenge" alt="coderbyte_coding_challenge">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/conect-four-game">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=conect-four-game" alt="conect-four-game">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/covid-tracker">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=covid-tracker" alt="covid-tracker">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/django_finchcollector">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=django_finchcollector" alt="django_finchcollector">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/django_todos">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=django_todos" alt="django_todos">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/express-dev-skills">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=express-dev-skills" alt="express-dev-skills">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/express-generator">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=express-generator" alt="express-generator">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/netflix-clone-ds">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=netflix-clone-ds" alt="fakeflix">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/fun-functionalities">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=fun-functionalities" alt="fun-functionalities">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/inspirations">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=inspirations" alt="inspirations">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/i-message-clone-ui">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=i-message-clone-ui" alt="i-message-clone-ui">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/madlibs_python">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=madlibs_python" alt="madlibs_python">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/mongoose-flights">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=mongoose-flights" alt="mongoose-flights">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/nativeTimeTracker">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=nativeTimeTracker" alt="nativeTimeTracker">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/nativeToDoList">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=nativeToDoList" alt="nativeToDoList">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/netflix-clone-ds">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=netflix-clone-ds" alt="netflix-clone-ds">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/neon-strobe-animation">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=neon-strobe-animation" alt="neon-strobe-animation">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/python-exercises">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=python-exercises" alt="python-exercises">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/react-quiz-typescript">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=react-quiz-typescript" alt="quiz-app">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/react-context">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=react-context" alt="react-context">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/react-quiz-typescript">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=react-quiz-typescript" alt="react-quiz-typescript">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/react-star-wars">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=react-star-wars" alt="react-star-wars">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/realtime-chat">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=realtime-chat" alt="realtime-chat">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/realtime-circles">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=realtime-circles" alt="realtime-circles">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/responsive-header">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=responsive-header" alt="responsive-header">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/rock-paper-scissors">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=rock-paper-scissors" alt="rock-paper-scissors">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/spotify-clone-ds">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=spotify-clone-ds" alt="spotify-clone-ui">
+    </a>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <a href="https://github.com/davesheinbein/tic-tac-toe">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=tic-tac-toe" alt="tic-tac-toe">
+    </a>
+  </div>
+</div>
