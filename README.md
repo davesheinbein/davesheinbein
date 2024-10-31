@@ -14,22 +14,22 @@
 
 #### Frontend Development
 
-- **Languages:** <img src="https://simpleicons.org/icons/html5.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="HTML5 Logo" /> HTML5, <img src="https://simpleicons.org/icons/javascript.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="JavaScript Logo" /> JavaScript, <img src="https://simpleicons.org/icons/markdown.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Markdown Logo" /> Markdown, <img src="https://simpleicons.org/icons/sass.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="SASS Logo" /> SASS, <img src="https://simpleicons.org/icons/sass.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="SCSS Logo" /> SCSS, <img src="https://simpleicons.org/icons/typescript.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="TypeScript Logo" /> TypeScript
-- **Libraries & Frameworks:** <img src="https://simpleicons.org/icons/angular.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Angular Logo" /> Angular, <img src="https://simpleicons.org/icons/bootstrap.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Bootstrap Logo" /> Bootstrap, <img src="https://simpleicons.org/icons/d3dotjs.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="D3 Logo" /> D3, <img src="https://simpleicons.org/icons/nextdotjs.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Next.js Logo" /> Next.js, <img src="https://simpleicons.org/icons/react.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="React Logo" /> React, <img src="https://simpleicons.org/icons/spring.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="React-Spring Logo" /> React-Spring, <img src="https://simpleicons.org/icons/redux.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Redux Logo" /> Redux, <img src="https://simpleicons.org/icons/reactivex.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="RxJS Logo" /> RxJS, <img src="https://simpleicons.org/icons/styledcomponents.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Styled Components Logo" /> Styled Components, <img src="https://simpleicons.org/icons/tailwindcss.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Tailwind CSS Logo" /> Tailwind CSS
-- **Tools & Technologies:** <img src="https://simpleicons.org/icons/babel.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Babel Logo" /> Babel, <img src="https://simpleicons.org/icons/figma.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Figma Logo" /> Figma, <img src="https://simpleicons.org/icons/jest.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Jest Logo" /> Jest, <img src="https://simpleicons.org/icons/prettier.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Prettier Logo" /> Prettier, <img src="https://simpleicons.org/icons/webpack.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Webpack Logo" /> Webpack, <img src="https://i.imgur.com/AB7jMIx.png" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Zeplin Logo" /> Zeplin
+- **Languages:** <img src="https://simpleicons.org/icons/html5.svg" style="width: 24px; height: 24px;" alt="HTML5 Logo" /> HTML5, <img src="https://simpleicons.org/icons/javascript.svg" style="width: 24px; height: 24px;" alt="JavaScript Logo" /> JavaScript, <img src="https://simpleicons.org/icons/markdown.svg" style="width: 24px; height: 24px;" alt="Markdown Logo" /> Markdown, <img src="https://simpleicons.org/icons/sass.svg" style="width: 24px; height: 24px;" alt="SASS Logo" /> SASS, <img src="https://simpleicons.org/icons/sass.svg" style="width: 24px; height: 24px;" alt="SCSS Logo" /> SCSS, <img src="https://simpleicons.org/icons/typescript.svg" style="width: 24px; height: 24px;" alt="TypeScript Logo" /> TypeScript
+- **Libraries & Frameworks:** <img src="https://simpleicons.org/icons/angular.svg" style="width: 24px; height: 24px;" alt="Angular Logo" /> Angular, <img src="https://simpleicons.org/icons/bootstrap.svg" style="width: 24px; height: 24px;" alt="Bootstrap Logo" /> Bootstrap, <img src="https://simpleicons.org/icons/d3dotjs.svg" style="width: 24px; height: 24px;" alt="D3 Logo" /> D3, <img src="https://simpleicons.org/icons/nextdotjs.svg" style="width: 24px; height: 24px;" alt="Next.js Logo" /> Next.js, <img src="https://simpleicons.org/icons/react.svg" style="width: 24px; height: 24px;" alt="React Logo" /> React, <img src="https://simpleicons.org/icons/spring.svg" style="width: 24px; height: 24px;" alt="React-Spring Logo" /> React-Spring, <img src="https://simpleicons.org/icons/redux.svg" style="width: 24px; height: 24px;" alt="Redux Logo" /> Redux, <img src="https://simpleicons.org/icons/reactivex.svg" style="width: 24px; height: 24px;" alt="RxJS Logo" /> RxJS, <img src="https://simpleicons.org/icons/styledcomponents.svg" style="width: 24px; height: 24px;" alt="Styled Components Logo" /> Styled Components, <img src="https://simpleicons.org/icons/tailwindcss.svg" style="width: 24px; height: 24px;" alt="Tailwind CSS Logo" /> Tailwind CSS
+- **Tools & Technologies:** <img src="https://simpleicons.org/icons/babel.svg" style="width: 24px; height: 24px;" alt="Babel Logo" /> Babel, <img src="https://simpleicons.org/icons/figma.svg" style="width: 24px; height: 24px;" alt="Figma Logo" /> Figma, <img src="https://simpleicons.org/icons/jest.svg" style="width: 24px; height: 24px;" alt="Jest Logo" /> Jest, <img src="https://simpleicons.org/icons/prettier.svg" style="width: 24px; height: 24px;" alt="Prettier Logo" /> Prettier, <img src="https://simpleicons.org/icons/webpack.svg" style="width: 24px; height: 24px;" alt="Webpack Logo" /> Webpack, <img src="https://i.imgur.com/AB7jMIx.png" style="width: 24px; height: 24px;" alt="Zeplin Logo" /> Zeplin
 
 #### Backend & Tools
 
-- **Languages & Frameworks:** <img src="https://simpleicons.org/icons/django.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Django Logo" /> Django, <img src="https://simpleicons.org/icons/express.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Express Logo" /> Express, <img src="https://simpleicons.org/icons/nodedotjs.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Node.js Logo" /> Node.js, <img src="https://simpleicons.org/icons/php.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="PHP Logo" /> PHP, <img src="https://simpleicons.org/icons/python.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Python Logo" /> Python
-- **Databases:** <img src="https://simpleicons.org/icons/amazons3.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="amazon S3 Logo" /> Amazon S3, <img src="https://simpleicons.org/icons/firebase.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Firebase Logo" /> Firebase, <img src="https://simpleicons.org/icons/mongodb.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="MongoDB Logo" /> MongoDB, <img src="https://simpleicons.org/icons/mongoose.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Mongoose Logo" /> Mongoose, <img src="https://simpleicons.org/icons/mysql.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="MySQL Logo" /> MySQL, <img src="https://simpleicons.org/icons/postgresql.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="PostgreSQL Logo" /> PostgreSQL
-- **Version Control:** <img src="https://simpleicons.org/icons/git.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Git Logo" /> Git, <img src="https://simpleicons.org/icons/github.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="GitHub Logo" /> GitHub, <img src="https://simpleicons.org/icons/gitlab.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="GitLab Logo" /> GitLab
-- **APIs:** <img src="https://simpleicons.org/icons/axios.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Axios Logo" /> Axios, <img src="https://simpleicons.org/icons/json.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="JSON Logo" /> JSON, <img src="https://i.imgur.com/XqAlzDi.png" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Nodemailer Logo" /> Nodemailer, <img src="https://i.imgur.com/cvnc33C.png" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="RESTful APIs Logo" /> RESTful APIs, <img src="https://i.imgur.com/eQZexg5.jpeg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Third-Party APIs Logo" /> Third-Party APIs
-- **Cloud & Deployment:** <img src="https://simpleicons.org/icons/amazonwebservices.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="AWS Logo" /> AWS, <img src="https://simpleicons.org/icons/docker.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Docker Logo" /> Docker, <img src="https://simpleicons.org/icons/firebase.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Firebase Hosting Logo" /> Firebase Hosting, <img src="https://simpleicons.org/icons/heroku.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Heroku Logo" /> Heroku, <img src="https://simpleicons.org/icons/jenkins.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Jenkins Logo" /> Jenkins, <img src="https://simpleicons.org/icons/mongodb.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="MongoDB Atlas Logo" /> MongoDB Atlas
-- **QA:** <img src="https://simpleicons.org/icons/jest.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Jest Logo" /> Jest
+- **Languages & Frameworks:** <img src="https://simpleicons.org/icons/django.svg" style="width: 24px; height: 24px;" alt="Django Logo" /> Django, <img src="https://simpleicons.org/icons/express.svg" style="width: 24px; height: 24px;" alt="Express Logo" /> Express, <img src="https://simpleicons.org/icons/nodedotjs.svg" style="width: 24px; height: 24px;" alt="Node.js Logo" /> Node.js, <img src="https://simpleicons.org/icons/php.svg" style="width: 24px; height: 24px;" alt="PHP Logo" /> PHP, <img src="https://simpleicons.org/icons/python.svg" style="width: 24px; height: 24px;" alt="Python Logo" /> Python
+- **Databases:** <img src="https://simpleicons.org/icons/amazons3.svg" style="width: 24px; height: 24px;" alt="amazon S3 Logo" /> Amazon S3, <img src="https://simpleicons.org/icons/firebase.svg" style="width: 24px; height: 24px;" alt="Firebase Logo" /> Firebase, <img src="https://simpleicons.org/icons/mongodb.svg" style="width: 24px; height: 24px;" alt="MongoDB Logo" /> MongoDB, <img src="https://simpleicons.org/icons/mongoose.svg" style="width: 24px; height: 24px;" alt="Mongoose Logo" /> Mongoose, <img src="https://simpleicons.org/icons/mysql.svg" style="width: 24px; height: 24px;" alt="MySQL Logo" /> MySQL, <img src="https://simpleicons.org/icons/postgresql.svg" style="width: 24px; height: 24px;" alt="PostgreSQL Logo" /> PostgreSQL
+- **Version Control:** <img src="https://simpleicons.org/icons/git.svg" style="width: 24px; height: 24px;" alt="Git Logo" /> Git, <img src="https://simpleicons.org/icons/github.svg" style="width: 24px; height: 24px;" alt="GitHub Logo" /> GitHub, <img src="https://simpleicons.org/icons/gitlab.svg" style="width: 24px; height: 24px;" alt="GitLab Logo" /> GitLab
+- **APIs:** <img src="https://simpleicons.org/icons/axios.svg" style="width: 24px; height: 24px;" alt="Axios Logo" /> Axios, <img src="https://simpleicons.org/icons/json.svg" style="width: 24px; height: 24px;" alt="JSON Logo" /> JSON, <img src="https://i.imgur.com/XqAlzDi.png" style="width: 24px; height: 24px;" alt="Nodemailer Logo" /> Nodemailer, <img src="https://i.imgur.com/cvnc33C.png" style="width: 24px; height: 24px;" alt="RESTful APIs Logo" /> RESTful APIs, <img src="https://i.imgur.com/eQZexg5.jpeg" style="width: 24px; height: 24px;" alt="Third-Party APIs Logo" /> Third-Party APIs
+- **Cloud & Deployment:** <img src="https://simpleicons.org/icons/amazonwebservices.svg" style="width: 24px; height: 24px;" alt="AWS Logo" /> AWS, <img src="https://simpleicons.org/icons/docker.svg" style="width: 24px; height: 24px;" alt="Docker Logo" /> Docker, <img src="https://simpleicons.org/icons/firebase.svg" style="width: 24px; height: 24px;" alt="Firebase Hosting Logo" /> Firebase Hosting, <img src="https://simpleicons.org/icons/heroku.svg" style="width: 24px; height: 24px;" alt="Heroku Logo" /> Heroku, <img src="https://simpleicons.org/icons/jenkins.svg" style="width: 24px; height: 24px;" alt="Jenkins Logo" /> Jenkins, <img src="https://simpleicons.org/icons/mongodb.svg" style="width: 24px; height: 24px;" alt="MongoDB Atlas Logo" /> MongoDB Atlas
+- **QA:** <img src="https://simpleicons.org/icons/jest.svg" style="width: 24px; height: 24px;" alt="Jest Logo" /> Jest
 
 #### Design & Communication
 
-- **Design Tools:** <img src="https://simpleicons.org/icons/adobe.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Adobe Creative Suite Logo" /> Adobe Creative Suite, <img src="https://simpleicons.org/icons/canva.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Canva Logo" /> Canva, <img src="https://simpleicons.org/icons/figma.svg" style="width: 24px; height: 24px; background: #E0F7FA; background-color: #E0F7FA; border-radius: 3px;" alt="Figma Logo" /> Figma
+- **Design Tools:** <img src="https://simpleicons.org/icons/adobe.svg" style="width: 24px; height: 24px;" alt="Adobe Creative Suite Logo" /> Adobe Creative Suite, <img src="https://simpleicons.org/icons/canva.svg" style="width: 24px; height: 24px;" alt="Canva Logo" /> Canva, <img src="https://simpleicons.org/icons/figma.svg" style="width: 24px; height: 24px;" alt="Figma Logo" /> Figma
 
 #### **And many more...**
 
@@ -99,6 +99,7 @@ I have earned multiple certifications, showcasing a well-rounded skill set in de
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Harnessing the Power of JavaScript for Modern Web Applications](https://medium.com/@davidsheinbeindev/harnessing-the-power-of-javascript-for-modern-web-applications-a312eb095b04?source=rss-1c389b2c5210------2)
 - [The Importance of Writing Clean, Maintainable Code](https://medium.com/@davidsheinbeindev/the-importance-of-writing-clean-maintainable-code-4b814d33592b?source=rss-1c389b2c5210------2)
 - [Angular vs. React: Choosing the Right Tool for Your Project](https://medium.com/@davidsheinbeindev/angular-vs-react-choosing-the-right-tool-for-your-project-009e3d612dbd?source=rss-1c389b2c5210------2)
@@ -110,72 +111,29 @@ I have earned multiple certifications, showcasing a well-rounded skill set in de
 ## Recommendations
 
 **Chris Drottar**  
-_Acting VP of Software Engineering, Health SMB/DF at
-Internet Brands_  
-"David is an excellent team member. Working as a part of my
-Front End Engineering team, David has proved to be
-adaptable, dedicated, dependable, with a growing confidence,
-and expending skill set. Through the years that I have
-worked with him so far, he has taken on tasks that vary on
-the difficulty spectrum and solved them all. David is
-frequently looking for the best way to solve a problem and
-delivering on time and within estimates. David was flexible
-enough to work with an EOL version of Angular and new react
-frameworks at the same building each in different
-simultaneous projects. His time and attention management is
-excellent. More recently he has begun leading milestone
-demonstrations intended for management and assisting peers
-coming into the codebases. David has always been a strong
-performer, and if given the chance in the future I would
-certainly recommend his hire."
+_Acting VP of Software Engineering, Health SMB/DF at Internet Brands_
+
+"David is an excellent team member. Working as a part of my Front End Engineering team, David has proved to be adaptable, dedicated, dependable, with a growing confidence, and expending skill set. Through the years that I have worked with him so far, he has taken on tasks that vary on the difficulty spectrum and solved them all. David is frequently looking for the best way to solve a problem and delivering on time and within estimates. David was flexible enough to work with an EOL version of Angular and new react frameworks at the same building each in different simultaneous projects. His time and attention management is excellent. More recently he has begun leading milestone demonstrations intended for management and assisting peers coming into the codebases. David has always been a strong performer, and if given the chance in the future I would certainly recommend his hire."
 
 **Budi Chandra**  
-_Sr. Web Developer at Internet Brands_  
-"David plays an important role in our frontend development
-team. He has grown from an associate to a well-established
-frontend developer, displaying quick wit, passion for his
-work, and excellent communication skills to keep projects
-moving forward."
+_Sr. Web Developer at Internet Brands_
+
+"David plays an important role in our frontend development team. He has grown from an associate to a well-established frontend developer, displaying quick wit, passion for his work, and excellent communication skills to keep projects moving forward."
 
 **Ashwini Bauskar**  
-_Executive Technology Director, Program Management & Agile
-Leadership_  
-"Working with David has been a great experience.
-Histechnical skills and creativity made him a valuable part
-ofour team. He effectively translated front-end
-requirementsinto streamlined systems and enhanced dynamic
-forms usingReact, Angular, and CSS. I was especially
-impressed by hiswork on the HOP UI Kit, which showcased his
-commitment toboth quality and innovation. David also
-communicatedeffectively with the product team, consistently
-reviewingdesigns, identifying gaps, and proposing
-alternativetechnical solutions to help define use cases in
-more detail.He was always ready to help any team member for
-onboardingor for new project work, making him a great team
-player. Hisstrong teamwork and collaboration helped make our
-project asuccess."
+_Executive Technology Director, Program Management & Agile Leadership_
+
+"Working with David has been a great experience. Histechnical skills and creativity made him a valuable part ofour team. He effectively translated front-end requirementsinto streamlined systems and enhanced dynamic forms usingReact, Angular, and CSS. I was especially impressed by hiswork on the HOP UI Kit, which showcased his commitment toboth quality and innovation. David also communicatedeffectively with the product team, consistently reviewingdesigns, identifying gaps, and proposing alternativetechnical solutions to help define use cases in more detail.He was always ready to help any team member for onboardingor for new project work, making him a great team player. Hisstrong teamwork and collaboration helped make our project asuccess."
 
 **Terence Kulik**  
-_Director of Technology at Internet Brands_  
-"My team was primarily backend developers, but we would
-regularly borrow David in order to build react bundles for
-our projects. David was a highly skilled front end
-developer, who was a pleasure to work with. We could give
-him a design in figma or any other tool and he could create
-a pixel perfect implementation. If he had any concerns or
-questions, he would raise them immediately and proactively.
-If I had the opportunity, I would absolutely work with David
-again."
+_Director of Technology at Internet Brands_
+
+"My team was primarily backend developers, but we would regularly borrow David in order to build react bundles for our projects. David was a highly skilled front end developer, who was a pleasure to work with. We could give him a design in figma or any other tool and he could create a pixel perfect implementation. If he had any concerns or questions, he would raise them immediately and proactively. If I had the opportunity, I would absolutely work with David again."
 
 **Zohreh Malek**  
-_Sr. Technical Program/Project Manager_  
-"David has collaborated closely with all of the front-end
-developers on my team over the past few years. He
-consistently demonstrated meticulous attention to detail, a
-clear design vision, and an ability to identify gaps in the
-process, proactively communicating them to the product team.
-I was highly impressed with his work and would confidently
-recommend him for any front-end development position."
+_Sr. Technical Program/Project Manager_
+
+"David has collaborated closely with all of the front-end developers on my team over the past few years. He consistently demonstrated meticulous attention to detail, a clear design vision, and an ability to identify gaps in the process, proactively communicating them to the product team. I was highly impressed with his work and would confidently recommend him for any front-end development position."
 
 ---
 
@@ -282,6 +240,8 @@ recommend him for any front-end development position."
 #### For more [information](https://linktr.ee/dsDev) about me or to schedule a meeting [schedule a meeting](https://calendly.com/davidsheinbeindev/intro)
 
 <img src="https://raw.githubusercontent.com/davesheinbein/davesheinbein/output/snake.svg" alt="Snake animation" />
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davesheinbein&column=5&theme=tokyonight" alt="davesheinbein" /></a> </p>
 
 #### **Visitor Count**
 
