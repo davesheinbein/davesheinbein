@@ -16,7 +16,7 @@
 
 - **Languages:** <img src="https://simpleicons.org/icons/html5.svg" style="width: 24px; height: 24px;" alt="HTML5 Logo" /> HTML5, <img src="https://simpleicons.org/icons/javascript.svg" style="width: 24px; height: 24px;" alt="JavaScript Logo" /> JavaScript, <img src="https://simpleicons.org/icons/markdown.svg" style="width: 24px; height: 24px;" alt="Markdown Logo" /> Markdown, <img src="https://simpleicons.org/icons/sass.svg" style="width: 24px; height: 24px;" alt="SASS Logo" /> SASS, <img src="https://simpleicons.org/icons/sass.svg" style="width: 24px; height: 24px;" alt="SCSS Logo" /> SCSS, <img src="https://simpleicons.org/icons/typescript.svg" style="width: 24px; height: 24px;" alt="TypeScript Logo" /> TypeScript
 - **Libraries & Frameworks:** <img src="https://simpleicons.org/icons/angular.svg" style="width: 24px; height: 24px;" alt="Angular Logo" /> Angular, <img src="https://simpleicons.org/icons/bootstrap.svg" style="width: 24px; height: 24px;" alt="Bootstrap Logo" /> Bootstrap, <img src="https://simpleicons.org/icons/d3dotjs.svg" style="width: 24px; height: 24px;" alt="D3 Logo" /> D3, <img src="https://simpleicons.org/icons/nextdotjs.svg" style="width: 24px; height: 24px;" alt="Next.js Logo" /> Next.js, <img src="https://simpleicons.org/icons/react.svg" style="width: 24px; height: 24px;" alt="React Logo" /> React, <img src="https://simpleicons.org/icons/spring.svg" style="width: 24px; height: 24px;" alt="React-Spring Logo" /> React-Spring, <img src="https://simpleicons.org/icons/redux.svg" style="width: 24px; height: 24px;" alt="Redux Logo" /> Redux, <img src="https://simpleicons.org/icons/reactivex.svg" style="width: 24px; height: 24px;" alt="RxJS Logo" /> RxJS, <img src="https://simpleicons.org/icons/styledcomponents.svg" style="width: 24px; height: 24px;" alt="Styled Components Logo" /> Styled Components, <img src="https://simpleicons.org/icons/tailwindcss.svg" style="width: 24px; height: 24px;" alt="Tailwind CSS Logo" /> Tailwind CSS
-- **Tools & Technologies:** <img src="https://simpleicons.org/icons/babel.svg" style="width: 24px; height: 24px;" alt="Babel Logo" /> Babel, <img src="https://simpleicons.org/icons/figma.svg" style="width: 24px; height: 24px;" alt="Figma Logo" /> Figma, <img src="https://simpleicons.org/icons/jest.svg" style="width: 24px; height: 24px;" alt="Jest Logo" /> Jest, <img src="https://simpleicons.org/icons/prettier.svg" style="width: 24px; height: 24px;" alt="Prettier Logo" /> Prettier, <img src="https://simpleicons.org/icons/webpack.svg" style="width: 24px; height: 24px;" alt="Webpack Logo" /> Webpack, <img src="https://i.imgur.com/AB7jMIx.png" style="width: 24px; height: 24px;" alt="Zeplin Logo" /> Zeplin
+- **Tools & Technologies:** <img src="https://simpleicons.org/icons/babel.svg" style="width: 24px; height: 24px;" alt="Babel Logo" /> Babel, <img src="https://simpleicons.org/icons/figma.svg" style="width: 24px; height: 24px;" alt="Figma Logo" /> Figma, <img src="https://simpleicons.org/icons/jest.svg" style="width: 24px; height: 24px;" alt="Jest Logo" /> Jest, <img src="https://simpleicons.org/icons/npm.svg" style="width: 24px; height: 24px;" alt="npm Logo" /> npm, <img src="https://simpleicons.org/icons/nvm.svg" style="width: 24px; height: 24px;" alt="nvm Logo" /> nvm, <img src="https://simpleicons.org/icons/prettier.svg" style="width: 24px; height: 24px;" alt="Prettier Logo" /> Prettier, <img src="https://simpleicons.org/icons/webpack.svg" style="width: 24px; height: 24px;" alt="Webpack Logo" /> Webpack, <img src="https://i.imgur.com/AB7jMIx.png" style="width: 24px; height: 24px;" alt="Zeplin Logo" /> Zeplin
 
 #### Backend & Tools
 
@@ -84,15 +84,15 @@ I enjoy helping people discover and implement interesting ways to scale and grow
 
 I have earned multiple certifications, showcasing a well-rounded skill set in development. You can view these certifications through the following links:
 
-| Certification Title                       | Issuer       | Date     | Skills                                               | Links                                                                                                          |
-| ----------------------------------------- | ------------ | -------- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Back End Development and APIs             | FreeCodeCamp | Oct 2024 | MongoDB, Express.js, Node.js, HTML5, JavaScript, CSS | [Certification](https://www.freecodecamp.org/certification/dsDev/back-end-development-and-apis)                |
-| Data Visualization                        | FreeCodeCamp | Oct 2024 | HTML5, CSS, JavaScript, D3.js, TopoJSON              | [Certification](https://www.freecodecamp.org/certification/dsDev/data-visualization)                           |
-| Front End Development Libraries           | FreeCodeCamp | Oct 2024 | HTML5, CSS, Git, GitHub                              | [Certification](https://www.freecodecamp.org/certification/dsDev/front-end-libraries)                          |
-| JavaScript Algorithms and Data Structures | FreeCodeCamp | Oct 2024 | JavaScript, HTML5, CSS, Git, GitHub                  | [Certification](https://www.freecodecamp.org/certification/dsDev/javascript-algorithms-and-data-structures-v8) |
-| Relational Database                       | FreeCodeCamp | Oct 2024 | PostgreSQL, Git, GitHub, Databases, Terminal         | [Certification](https://www.freecodecamp.org/certification/dsDev/relational-database-v8)                       |
-| Responsive Web Design                     | FreeCodeCamp | Oct 2024 | HTML5, CSS, JavaScript, Git, GitHub                  | [Certification](https://www.freecodecamp.org/certification/dsDev/responsive-web-design)                        |
-| Scientific Computing with Python          | FreeCodeCamp | Oct 2024 | Python, Git, GitHub                                  | [Certification](https://www.freecodecamp.org/certification/dsDev/scientific-computing-with-python-v7)          |
+| Certification Title                       | Issuer                                                                                                                               | Date     | Skills                                                                    | Links                                                                                                          |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Back End Development and APIs             | <img src="https://simpleicons.org/icons/freecodecamp.svg" style="width: 24px; height: 24px;" alt="freecodecamp Logo" /> FreeCodeCamp | Oct 2024 | MongoDB, Express.js, Node.js, HTML5, JavaScript, CSS, Terminal, NPM, Node | [Certification](https://www.freecodecamp.org/certification/dsDev/back-end-development-and-apis)                |
+| Data Visualization                        | <img src="https://simpleicons.org/icons/freecodecamp.svg" style="width: 24px; height: 24px;" alt="freecodecamp Logo" /> FreeCodeCamp | Oct 2024 | HTML5, CSS, JavaScript, D3.js, TopoJSON, Terminal, NPM, Node              | [Certification](https://www.freecodecamp.org/certification/dsDev/data-visualization)                           |
+| Front End Development Libraries           | <img src="https://simpleicons.org/icons/freecodecamp.svg" style="width: 24px; height: 24px;" alt="freecodecamp Logo" /> FreeCodeCamp | Oct 2024 | HTML5, CSS, Git, GitHub, Terminal, NPM, Node                              | [Certification](https://www.freecodecamp.org/certification/dsDev/front-end-libraries)                          |
+| JavaScript Algorithms and Data Structures | <img src="https://simpleicons.org/icons/freecodecamp.svg" style="width: 24px; height: 24px;" alt="freecodecamp Logo" /> FreeCodeCamp | Oct 2024 | JavaScript, HTML5, CSS, Git, GitHub, Terminal, NPM, Node                  | [Certification](https://www.freecodecamp.org/certification/dsDev/javascript-algorithms-and-data-structures-v8) |
+| Relational Database                       | <img src="https://simpleicons.org/icons/freecodecamp.svg" style="width: 24px; height: 24px;" alt="freecodecamp Logo" /> FreeCodeCamp | Oct 2024 | PostgreSQL, Git, GitHub, Databases, Terminal, NPM, Node                   | [Certification](https://www.freecodecamp.org/certification/dsDev/relational-database-v8)                       |
+| Responsive Web Design                     | <img src="https://simpleicons.org/icons/freecodecamp.svg" style="width: 24px; height: 24px;" alt="freecodecamp Logo" /> FreeCodeCamp | Oct 2024 | HTML5, CSS, JavaScript, Git, GitHub, Terminal, NPM, Node                  | [Certification](https://www.freecodecamp.org/certification/dsDev/responsive-web-design)                        |
+| Scientific Computing with Python          | <img src="https://simpleicons.org/icons/freecodecamp.svg" style="width: 24px; height: 24px;" alt="freecodecamp Logo" /> FreeCodeCamp | Oct 2024 | Python, Git, GitHub, Terminal, NPM, Node                                  | [Certification](https://www.freecodecamp.org/certification/dsDev/scientific-computing-with-python-v7)          |
 
 ---
 
@@ -248,3 +248,73 @@ _Sr. Technical Program/Project Manager_
 <div align="center">
   <img src="https://profile-counter.glitch.me/davesheinbein/count.svg?"  />
 </div>
+
+---
+
+### Projects
+
+[![amazon-clone-ds](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=amazon-clone-ds)](https://github.com/davesheinbein/amazon-clone-ds)
+
+[![api-express-app-lab](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=api-express-app-lab)](https://github.com/davesheinbein/api-express-app-lab)
+
+[![binary-encoding](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=binary-encoding)](https://github.com/davesheinbein/binary-encoding)
+
+[![calculator](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=calculator)](https://github.com/davesheinbein/calculator)
+
+[![Chat-Bot](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=Chat-Bot)](https://github.com/davesheinbein/Chat-Bot)
+
+[![coderbyte_coding_challenge](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=coderbyte_coding_challenge)](https://github.com/davesheinbein/coderbyte_coding_challenge)
+
+[![conect-four-game](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=conect-four-game)](https://github.com/davesheinbein/conect-four-game)
+
+[![covid-tracker](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=covid-tracker)](https://github.com/davesheinbein/covid-tracker)
+
+[![django_finchcollector](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=django_finchcollector)](https://github.com/davesheinbein/django_finchcollector)
+
+[![django_todos](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=django_todos)](https://github.com/davesheinbein/django_todos)
+
+[![express-dev-skills](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=express-dev-skills)](https://github.com/davesheinbein/express-dev-skills)
+
+[![express-generator](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=express-generator)](https://github.com/davesheinbein/express-generator)
+
+[![fakeflix](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=netflix-clone-ds)](https://github.com/davesheinbein/netflix-clone-ds)
+
+[![fun-functionalities](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=fun-functionalities)](https://github.com/davesheinbein/fun-functionalities)
+
+[![inspirations](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=inspirations)](https://github.com/davesheinbein/inspirations)
+
+[![i-message-clone-ui](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=i-message-clone-ui)](https://github.com/davesheinbein/i-message-clone-ui)
+
+[![madlibs_python](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=madlibs_python)](https://github.com/davesheinbein/madlibs_python)
+
+[![mongoose-flights](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=mongoose-flights)](https://github.com/davesheinbein/mongoose-flights)
+
+[![nativeTimeTracker](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=nativeTimeTracker)](https://github.com/davesheinbein/nativeTimeTracker)
+
+[![nativeToDoList](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=nativeToDoList)](https://github.com/davesheinbein/nativeToDoList)
+
+[![netflix-clone-ds](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=netflix-clone-ds)](https://github.com/davesheinbein/netflix-clone-ds)
+
+[![neon-strobe-animation](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=neon-strobe-animation)](https://github.com/davesheinbein/neon-strobe-animation)
+
+[![python-exercises](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=python-exercises)](https://github.com/davesheinbein/python-exercises)
+
+[![quiz-app](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=react-quiz-typescript)](https://github.com/davesheinbein/react-quiz-typescript)
+
+[![react-context](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=react-context)](https://github.com/davesheinbein/react-context)
+
+[![react-quiz-typescript](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=react-quiz-typescript)](https://github.com/davesheinbein/react-quiz-typescript)
+
+[![react-star-wars](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=react-star-wars)](https://github.com/davesheinbein/react-star-wars)
+
+[![realtime-chat](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=realtime-chat)](https://github.com/davesheinbein/realtime-chat)
+
+[![realtime-circles](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=realtime-circles)](https://github.com/davesheinbein/realtime-circles)
+
+[![responsive-header](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=responsive-header)](https://github.com/davesheinbein/responsive-header)
+
+[![rock-paper-scissors](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=rock-paper-scissors)](https://github.com/davesheinbein/rock-paper-scissors)
+
+[![spotify-clone-ui](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=spotify-clone-ds)](https://github.com/davesheinbein/spotify-clone-ds)
+
+[![tic-tac-toe](https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=tic-tac-toe)](https://github.com/davesheinbein/tic-tac-toe)
