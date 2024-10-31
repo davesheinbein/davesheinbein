@@ -9,6 +9,15 @@
 ##### I enjoy helping people discover and implement interesting ways to scale and grow their businesses and helping them reach their goals in a logical and creative way. Programming is one of the most versatile and important skills a person can have in today's business world. It enables developers to craft programs unique to any business's specific needs thus facilitating that business' growth.
 
 ---
+
+#### 📫 How to reach me:
+
+###### [(310)-628-5770](310-628-5770) | [Davidsheinbeindev@gmail.com](davidsheinbeindev@gmail.com) | [LinkedIn](www.linkedin.com/in/david-sheinbein/)
+
+###### [Schedule A Meeting](https://calendly.com/davidsheinbeindev/intro)
+
+---
+
 ### Skills
 
 **Languages:**  
@@ -44,19 +53,22 @@
 
   <img src="https://simpleicons.org/icons/jest.svg" style="width: 24px; height: 24px;" alt="Jest Logo" /> Jest
 
-**Design Tools:**  
+#### Design & Communication
 
-  <img src="https://simpleicons.org/icons/adobe.svg" style="width: 24px; height: 24px;" alt="Adobe Creative Suite Logo" /> Adobe Creative Suite, <img src="https://simpleicons.org/icons/canva.svg" style="width: 24px; height: 24px;" alt="Canva Logo" /> Canva, <img src="https://simpleicons.org/icons/figma.svg" style="width: 24px; height: 24px;" alt="Figma Logo" /> Figma, <img src="https://i.imgur.com/AB7jMIx.png" style="width: 24px; height: 24px;" alt="Zeplin Logo" /> Zeplin
+- **Design Tools:** <img src="https://simpleicons.org/icons/adobe.svg" style="width: 24px; height: 24px;" alt="Adobe Creative Suite Logo" /> Adobe Creative Suite, <img src="https://simpleicons.org/icons/canva.svg" style="width: 24px; height: 24px;" alt="Canva Logo" /> Canva, <img src="https://simpleicons.org/icons/figma.svg" style="width: 24px; height: 24px;" alt="Figma Logo" /> Figma
 
-**And many more...**
+#### **And many more...**
+
 ---
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davesheinbein&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="davesheinbein" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=davesheinbein&show_icons=true&hide_rank=true&theme=tokyonight" alt="davesheinbein" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davesheinbein&theme=tokyonight" alt="davesheinbein" /></p>
+<p align="left">
+  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=davesheinbein&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="davesheinbein" />
+  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=davesheinbein&show_icons=true&hide_rank=true&theme=tokyonight" alt="davesheinbein" />
+</p>
+<p align="left">
+  <img align="center" width="675" src="https://github-readme-streak-stats.herokuapp.com/?user=davesheinbein&theme=tokyonight" alt="davesheinbein" />
+  <img align="center" height="200" width="675" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davesheinbein&theme=tokyonight" alt="github stats">
+</p>
 
 ---
 
@@ -226,44 +238,9 @@ _Sr. Technical Program/Project Manager_
 
 ---
 
-#### 📫 How to reach me:
-
-##### [Davidsheinbeindev@gmail.com](Davidsheinbeindev@gmail.com) or [LinkedIn](www.linkedin.com/in/david-sheinbein/): [www.linkedin.com/in/david-sheinbein/](www.linkedin.com/in/david-sheinbein/)
-
-#### View my [Portfolio](https://davidsheinbeinengineer.com/): [https://davidsheinbeinengineer.com/](https://davidsheinbeinengineer.com/)
-
-#### Additional Work:
-
-- [Codepen](https://codepen.io/dsDeveloper)
-- [Codesandbox](https://codesandbox.io/u/davesheinbein)
-- [Glitch](https://glitch.com/@davesheinbein)
-- [Replit](https://replit.com/@davesheinbein)
-- [Linktree](https://linktr.ee/dsDev)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/dsdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/dsdeveloper" height="30" width="40" /></a>
-<a href="https://dev.to/dsdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dsdeveloper" height="30" width="40" /></a>
-<a href="https://x.com/dsdevloping" target="blank"><img align="center" src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="dsdevloping" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/david-sheinbein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/david-sheinbein" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14243607/dsdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14243607/dsdeveloper" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/dashboard/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/" height="30" width="40" /></a>
-<a href="https://medium.com/@davidsheinbeindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davidsheinbeindev" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dsdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dsdeveloper" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/davidsheinbeindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="davidsheinbeindev" height="30" width="40" /></a>
+  <img align="center" width="800" src="https://raw.githubusercontent.com/davesheinbein/davesheinbein/output/snake.svg" alt="Snake animation" />
 </p>
-
-#### For more [information](https://linktr.ee/dsDev) about me or to schedule a meeting [schedule a meeting](https://calendly.com/davidsheinbeindev/intro)
-
-<img src="https://raw.githubusercontent.com/davesheinbein/davesheinbein/output/snake.svg" alt="Snake animation" />
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davesheinbein&column=5&theme=tokyonight" alt="davesheinbein" /></a> </p>
-
-#### **Visitor Count**
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/davesheinbein/count.svg?"  />
-</div>
 
 ---
 
@@ -436,3 +413,47 @@ _Sr. Technical Program/Project Manager_
     </a>
   </div>
 </div>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=davesheinbein&column=5&theme=tokyonight" alt="davesheinbein" />
+  </a>
+</p>
+
+#### Additional Work:
+
+<img src="https://simpleicons.org/icons/codepen.svg" style="width: 24px; height: 24px;" alt="Codepen Logo" /> [Codepen](https://codepen.io/dsDeveloper)
+<img src="https://simpleicons.org/icons/codesandbox.svg" style="width: 24px; height: 24px;" alt="Codesandbox Logo" /> [Codesandbox](https://codesandbox.io/u/davesheinbein)
+<img src="https://simpleicons.org/icons/glitch.svg" style="width: 24px; height: 24px;" alt="Glitch Logo" /> [Glitch](https://glitch.com/@davesheinbein)
+<img src="https://simpleicons.org/icons/replit.svg" style="width: 24px; height: 24px;" alt="Replit Logo" /> [Replit](https://replit.com/@davesheinbein)
+
+---
+
+##### [Portfolio](https://davidsheinbeinengineer.com/)
+
+---
+
+#### 📫 How to reach me:
+
+###### [(310)-628-5770](310-628-5770) | [Davidsheinbeindev@gmail.com](davidsheinbeindev@gmail.com) | [LinkedIn](www.linkedin.com/in/david-sheinbein/)
+
+###### [Schedule A Meeting](https://calendly.com/davidsheinbeindev/intro)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/dsdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/dsdeveloper" height="30" width="40" /></a>
+<a href="https://dev.to/dsdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dsdeveloper" height="30" width="40" /></a>
+<a href="https://x.com/dsdevloping" target="blank"><img align="center" src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="dsdevloping" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/david-sheinbein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/david-sheinbein" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14243607/dsdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14243607/dsdeveloper" height="30" width="40" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/dashboard/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/" height="30" width="40" /></a>
+<a href="https://medium.com/@davidsheinbeindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davidsheinbeindev" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dsdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dsdeveloper" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/davidsheinbeindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="davidsheinbeindev" height="30" width="40" /></a>
+</p>
+
+#### For more [information](https://linktr.ee/dsDev) about me or to schedule a meeting [schedule a meeting](https://calendly.com/davidsheinbeindev/intro)
+
+#### **Visitor Count**
+
+<img src="https://profile-counter.glitch.me/davesheinbein/count.svg?"  />
