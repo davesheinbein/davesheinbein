@@ -1,9 +1,7 @@
 ![David Sheinbein Banner](https://i.imgur.com/PrrQHTC.jpeg)
 
 ```javascript
-function helloWorld() {
-	console.log('Hello World!');
-}
+'Hello World!';
 ```
 
 ### About Me
@@ -16,65 +14,75 @@ function helloWorld() {
 
 #### Frontend Development
 
-- **Languages:** HTML5, JavaScript, Markdown, SASS, SCSS,
-  TypeScript
-- **Libraries & Frameworks:** Angular, Bootstrap, D3,
-  Next.js, React, React-Spring, Redux, RxJS, Styled
-  Components, Tailwind CSS
-- **Tools & Technologies:** Babel, Figma, Jest, Prettier,
-  Webpack, Zeplin
-- **And more:** Various other packages and JSON
-  configurations
+- **Languages:** <img src="https://simpleicons.org/icons/html5.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="HTML5 Logo" /> HTML5, <img src="https://simpleicons.org/icons/javascript.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="JavaScript Logo" /> JavaScript, <img src="https://simpleicons.org/icons/markdown.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Markdown Logo" /> Markdown, <img src="https://simpleicons.org/icons/sass.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="SASS Logo" /> SASS, <img src="https://simpleicons.org/icons/sass.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="SCSS Logo" /> SCSS, <img src="https://simpleicons.org/icons/typescript.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="TypeScript Logo" /> TypeScript
+- **Libraries & Frameworks:** <img src="https://simpleicons.org/icons/angular.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Angular Logo" /> Angular, <img src="https://simpleicons.org/icons/bootstrap.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Bootstrap Logo" /> Bootstrap, <img src="https://simpleicons.org/icons/d3dotjs.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="D3 Logo" /> D3, <img src="https://simpleicons.org/icons/nextdotjs.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Next.js Logo" /> Next.js, <img src="https://simpleicons.org/icons/react.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="React Logo" /> React, <img src="https://simpleicons.org/icons/spring.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="React-Spring Logo" /> React-Spring, <img src="https://simpleicons.org/icons/redux.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Redux Logo" /> Redux, <img src="https://simpleicons.org/icons/reactivex.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="RxJS Logo" /> RxJS, <img src="https://simpleicons.org/icons/styledcomponents.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Styled Components Logo" /> Styled Components, <img src="https://simpleicons.org/icons/tailwindcss.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Tailwind CSS Logo" /> Tailwind CSS
+- **Tools & Technologies:** <img src="https://simpleicons.org/icons/babel.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Babel Logo" /> Babel, <img src="https://simpleicons.org/icons/figma.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Figma Logo" /> Figma, <img src="https://simpleicons.org/icons/jest.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Jest Logo" /> Jest, <img src="https://simpleicons.org/icons/prettier.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Prettier Logo" /> Prettier, <img src="https://simpleicons.org/icons/webpack.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Webpack Logo" /> Webpack, <img src="https://i.imgur.com/AB7jMIx.png" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Zeplin Logo" /> Zeplin
 
 #### Backend & Tools
 
-- **Languages & Frameworks:** Django, Express, Node.js, PHP,
-  Python
-- **Databases:** Firebase, MongoDB, Mongoose, MySQL,
-  PostgreSQL
-- **Version Control:** Git, GitHub, GitLab
-- **APIs:** Axios, JSON, Nodemailer, RESTful APIs,
-  Third-Party APIs
-- **Cloud & Deployment:** AWS, Docker, Firebase Hosting,
-  Heroku, Jenkins, MongoDB Atlas
-- **QA:** Jest
-- **And more:** Various other packages and JSON
-  configurations
+- **Languages & Frameworks:** <img src="https://simpleicons.org/icons/django.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Django Logo" /> Django, <img src="https://simpleicons.org/icons/express.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Express Logo" /> Express, <img src="https://simpleicons.org/icons/nodedotjs.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Node.js Logo" /> Node.js, <img src="https://simpleicons.org/icons/php.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="PHP Logo" /> PHP, <img src="https://simpleicons.org/icons/python.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Python Logo" /> Python
+- **Databases:** <img src="https://simpleicons.org/icons/amazons3.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="amazon S3 Logo" /> Amazon S3, <img src="https://simpleicons.org/icons/firebase.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Firebase Logo" /> Firebase, <img src="https://simpleicons.org/icons/mongodb.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="MongoDB Logo" /> MongoDB, <img src="https://simpleicons.org/icons/mongoose.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Mongoose Logo" /> Mongoose, <img src="https://simpleicons.org/icons/mysql.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="MySQL Logo" /> MySQL, <img src="https://simpleicons.org/icons/postgresql.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="PostgreSQL Logo" /> PostgreSQL
+- **Version Control:** <img src="https://simpleicons.org/icons/git.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Git Logo" /> Git, <img src="https://simpleicons.org/icons/github.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="GitHub Logo" /> GitHub, <img src="https://simpleicons.org/icons/gitlab.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="GitLab Logo" /> GitLab
+- **APIs:** <img src="https://simpleicons.org/icons/axios.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Axios Logo" /> Axios, <img src="https://simpleicons.org/icons/json.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="JSON Logo" /> JSON, <img src="https://i.imgur.com/XqAlzDi.png" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Nodemailer Logo" /> Nodemailer, <img src="https://i.imgur.com/cvnc33C.png" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="RESTful APIs Logo" /> RESTful APIs, <img src="https://i.imgur.com/eQZexg5.jpeg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Third-Party APIs Logo" /> Third-Party APIs
+- **Cloud & Deployment:** <img src="https://simpleicons.org/icons/amazonwebservices.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="AWS Logo" /> AWS, <img src="https://simpleicons.org/icons/docker.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Docker Logo" /> Docker, <img src="https://simpleicons.org/icons/firebase.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Firebase Hosting Logo" /> Firebase Hosting, <img src="https://simpleicons.org/icons/heroku.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Heroku Logo" /> Heroku, <img src="https://simpleicons.org/icons/jenkins.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Jenkins Logo" /> Jenkins, <img src="https://simpleicons.org/icons/mongodb.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="MongoDB Atlas Logo" /> MongoDB Atlas
+- **QA:** <img src="https://simpleicons.org/icons/jest.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Jest Logo" /> Jest
 
 #### Design & Communication
 
-- **Design Tools:** Adobe Creative Suite, Canva, Figma,
-  Sketch, Zeplin
-- **Web Design & Prototyping:** A/B testing, Google Fonts,
-  LottieFiles, Mockups, Undraw, User journey mapping, UX/UI
-  principles, Wireframing
-- **Project Management:** Agile methodologies (Scrum,
-  Kanban), Jira, Marketing, Outreach Strategy, Research,
-  Scheduling, Teamwork, Timeline Management, Trello
-- **Presentation & Demos:** Live demos, Stakeholder
-  presentations, Video tutorials, Walkthroughs
-- **Documentation:** Code commenting for maintainability,
-  Confluence, Guides and best practices, Markdown for
-  documentation, Project documentation
-- **Content Creation:** Blogging, Editing tutorials for
-  onboarding and training, Screen recording, SEO best
-  practices, Video production
-- **Soft Skills:** Adaptability, Attention to Detail,
-  Communication, Critical Thinking, Leadership,
-  Problem-solving, Time Management
-- **VSCode Extensions:** Auto Rename Tag, Bracket Pair
-  Colorizer, Code Spell Checker, ESLint, GitLens, Live
-  Server, Path Intellisense, Prettier
-- **And more:** Mentoring and coaching developers, Various
-  other tools and techniques
+- **Design Tools:** <img src="https://simpleicons.org/icons/adobe.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Adobe Creative Suite Logo" /> Adobe Creative Suite, <img src="https://simpleicons.org/icons/canva.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Canva Logo" /> Canva, <img src="https://simpleicons.org/icons/figma.svg" style="width: 24px; height: 24px; background: #E0F7FA; border-radius: 3px;" alt="Figma Logo" /> Figma
+
+#### **And many more...**
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davesheinbein&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="davesheinbein" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=davesheinbein&show_icons=true&hide_rank=true&theme=tokyonight" alt="davesheinbein" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davesheinbein&theme=tokyonight" alt="davesheinbein" /></p>
+
+---
+
+## Professional Journey
+
+### Internet Brands, El Segundo, CA — Frontend Developer (Jan 2021 - Sep 2024)
+
+- Spearheaded the design and troubleshooting of components across 50+ major brand projects, including WebMD, Officite, and Demandforce, significantly enhancing the user experience for over 10,000 users.
+- Designed and implemented UI solutions with HTML, CSS, and TypeScript, introducing 50+ features and fixing thousands of bugs to improve the online forms app for healthcare professionals.
+- Revamped UI libraries to significantly enhance online forms, implementing hundreds of new features like a search-enabled multiselect dropdown, resulting in improved functionality, navigability, and user satisfaction.
+- Enhanced user engagement by deploying an intuitive UI that incorporated automated ID verification and seamlessly integrated with RESTful APIs, delivering JSON data encompassing user account details and hundreds of personal health information data points, resulting in substantial improvements in user satisfaction and operational efficiency.
+- Resolved up to 30+ Jira issues per sprint across various branches by utilizing React, Angular, Python, PHP, FTL, and additional technologies, guaranteeing stable deployments both with and without Figma designs.
+- Executed rapid resolutions for high-priority issues, including deploying the critical Hopkit package just 10 minutes before the scheduled release, ensuring uninterrupted project progress and success across brands.
+- Collaborated with cross-functional teams to design and implement 40+ self-service password reset pages and custom email solutions, enhancing user autonomy and security while balancing additional priorities seamlessly.
+- Streamlined team workflows by facilitating knowledge transfer across 25+ repositories, creating comprehensive developer guides for installation, package management, and node setup, leading to the resolution of hundreds of tickets in an AGILE environment.
+- Presented updates to 30-100 stakeholders at weekly stand-ups and cross-team meetings, improving communication, fostering collaboration, delivering demos for project managers, marketing, and sales teams.
+
+### SuperWorld, Los Angeles, CA — Frontend Developer (Sep 2020 - Jan 2021)
+
+- Integrated geolocation API updates, enhancing map and blockchain functionality connecting 2 datasets and enabling users to plot hundreds of custom data points.
+- Enhanced user accessibility by constructing intricate front-end applications with HTML, CSS, and JavaScript, ensuring seamless display across mobile, tablet, and desktop devices.
+- Standardized visuals across 10+ components using Bootstrap and Reactstrap, improving UI responsiveness and visual consistency.
+- Boosted reliability with object-oriented design and test-driven development, improving reusability in blockchain web apps and streamlining feature deployment.
+
+## Educational Journey
+
+- General Assembly, Los Angeles, CA – Software Engineering Immersive (May 2020 - Aug 2020)
+- University of Colorado, Boulder, CO – Bachelor of Arts in Communications (Aug 2013 - May 2018)
+- University of Colorado, Boulder, CO – Bachelor of Arts in Media Production (Aug 2013 - May 2018)
+
+## Skills Snapshot
+
+Angular, Axios, AWS, CSS, D3, Django, Docker, Express, Git, HTML, JavaScript, Jenkins, Jest, JSON, Mongoose, MongoDB, MySQL, Node, Python, QA, React, Redux, RxJS, SASS, Styled Components, Tailwind CSS, TypeScript, Web Design, Webpack, and more.
+
+## About Me
+
+I enjoy helping people discover and implement interesting ways to scale and grow their businesses and helping them reach their goals in a logical and creative way. Programming is one of the most versatile and important skills a person can have in today's business world. It enables developers to craft programs unique to any business's specific needs thus facilitating that business' growth.
 
 ---
 
 ## Certifications
 
-David has earned multiple certifications from FreeCodeCamp,
-showcasing a well-rounded skill set in development. You can
-view these certifications through the following links:
+I have earned multiple certifications, showcasing a well-rounded skill set in development. You can view these certifications through the following links:
 
 | Certification Title                       | Issuer       | Date     | Skills                                               | Links                                                                                                          |
 | ----------------------------------------- | ------------ | -------- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -82,8 +90,16 @@ view these certifications through the following links:
 | Data Visualization                        | FreeCodeCamp | Oct 2024 | HTML5, CSS, JavaScript, D3.js, TopoJSON              | [Certification](https://www.freecodecamp.org/certification/dsDev/data-visualization)                           |
 | Front End Development Libraries           | FreeCodeCamp | Oct 2024 | HTML5, CSS, Git, GitHub                              | [Certification](https://www.freecodecamp.org/certification/dsDev/front-end-libraries)                          |
 | JavaScript Algorithms and Data Structures | FreeCodeCamp | Oct 2024 | JavaScript, HTML5, CSS, Git, GitHub                  | [Certification](https://www.freecodecamp.org/certification/dsDev/javascript-algorithms-and-data-structures-v8) |
+| Relational Database                       | FreeCodeCamp | Oct 2024 | PostgreSQL, Git, GitHub, Databases, Terminal         | [Certification](https://www.freecodecamp.org/certification/dsDev/relational-database-v8)                       |
 | Responsive Web Design                     | FreeCodeCamp | Oct 2024 | HTML5, CSS, JavaScript, Git, GitHub                  | [Certification](https://www.freecodecamp.org/certification/dsDev/responsive-web-design)                        |
 | Scientific Computing with Python          | FreeCodeCamp | Oct 2024 | Python, Git, GitHub                                  | [Certification](https://www.freecodecamp.org/certification/dsDev/scientific-computing-with-python-v7)          |
+
+---
+
+### Blogs posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -246,4 +262,25 @@ recommend him for any front-end development position."
 - [Replit](https://replit.com/@davesheinbein)
 - [Linktree](https://linktr.ee/dsDev)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/dsdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/dsdeveloper" height="30" width="40" /></a>
+<a href="https://dev.to/dsdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dsdeveloper" height="30" width="40" /></a>
+<a href="https://x.com/dsdevloping" target="blank"><img align="center" src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="dsdevloping" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/david-sheinbein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/david-sheinbein" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14243607/dsdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14243607/dsdeveloper" height="30" width="40" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/dashboard/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/" height="30" width="40" /></a>
+<a href="https://medium.com/@davidsheinbeindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davidsheinbeindev" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dsdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dsdeveloper" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/davidsheinbeindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="davidsheinbeindev" height="30" width="40" /></a>
+</p>
+
 #### For more [information](https://linktr.ee/dsDev) about me or to schedule a meeting [schedule a meeting](https://calendly.com/davidsheinbeindev/intro)
+
+<img src="https://raw.githubusercontent.com/davesheinbein/davesheinbein/output/snake.svg" alt="Snake animation" />
+
+#### **Visitor Count**
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/davesheinbein/count.svg?"  />
+</div>
