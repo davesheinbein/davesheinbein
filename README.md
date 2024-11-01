@@ -333,10 +333,10 @@ _Sr. Technical Program/Project Manager_
 
 #### Additional Work:
 
-<img src="https://simpleicons.org/icons/codepen.svg" style="width: 24px; height: 24px;" alt="Codepen Logo" /> [Codepen](https://codepen.io/dsDeveloper)
-<img src="https://simpleicons.org/icons/codesandbox.svg" style="width: 24px; height: 24px;" alt="Codesandbox Logo" /> [Codesandbox](https://codesandbox.io/u/davesheinbein)
-<img src="https://simpleicons.org/icons/glitch.svg" style="width: 24px; height: 24px;" alt="Glitch Logo" /> [Glitch](https://glitch.com/@davesheinbein)
-<img src="https://simpleicons.org/icons/replit.svg" style="width: 24px; height: 24px;" alt="Replit Logo" /> [Replit](https://replit.com/@davesheinbein)
+<img src="https://i.imgur.com/NI70Wcl.png" style="width: 24px; height: 24px;" alt="Codepen Logo" /> [Codepen](https://codepen.io/dsDeveloper)
+<img src="https://i.imgur.com/HdYTAgE.png" style="width: 24px; height: 24px;" alt="Codesandbox Logo" /> [Codesandbox](https://codesandbox.io/u/davesheinbein)
+<img src="https://i.imgur.com/vpup6pf.png" style="width: 24px; height: 24px;" alt="Glitch Logo" /> [Glitch](https://glitch.com/@davesheinbein)
+<img src="https://i.imgur.com/q48IMrm.png" style="width: 24px; height: 24px;" alt="Replit Logo" /> [Replit](https://replit.com/@davesheinbein)
 
 ---
 
