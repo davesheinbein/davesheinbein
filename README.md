@@ -117,6 +117,7 @@ I have earned multiple certifications, showcasing a well-rounded skill set in de
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Harnessing the Power of JavaScript for Modern Web Applications](https://medium.com/@davidsheinbeindev/harnessing-the-power-of-javascript-for-modern-web-applications-a312eb095b04?source=rss-1c389b2c5210------2)
 - [The Importance of Writing Clean, Maintainable Code](https://medium.com/@davidsheinbeindev/the-importance-of-writing-clean-maintainable-code-4b814d33592b?source=rss-1c389b2c5210------2)
 - [Angular vs. React: Choosing the Right Tool for Your Project](https://medium.com/@davidsheinbeindev/angular-vs-react-choosing-the-right-tool-for-your-project-009e3d612dbd?source=rss-1c389b2c5210------2)
@@ -332,10 +333,7 @@ _Sr. Technical Program/Project Manager_
 
 #### Additional Work:
 
-<img src="https://i.imgur.com/NI70Wcl.png" style="width: 24px; height: 24px;" alt="Codepen Logo" /> [Codepen](https://codepen.io/dsDeveloper)
-<img src="https://i.imgur.com/HdYTAgE.png" style="width: 24px; height: 24px;" alt="Codesandbox Logo" /> [Codesandbox](https://codesandbox.io/u/davesheinbein)
-<img src="https://i.imgur.com/vpup6pf.png" style="width: 24px; height: 24px;" alt="Glitch Logo" /> [Glitch](https://glitch.com/@davesheinbein)
-<img src="https://i.imgur.com/q48IMrm.png" style="width: 24px; height: 24px;" alt="Replit Logo" /> [Replit](https://replit.com/@davesheinbein)
+<img src="https://i.imgur.com/NI70Wcl.png" style="width: 24px; height: 24px;" alt="Codepen Logo" /> [Codepen](https://codepen.io/dsDeveloper), <img src="https://i.imgur.com/HdYTAgE.png" style="width: 24px; height: 24px;" alt="Codesandbox Logo" /> [Codesandbox](https://codesandbox.io/u/davesheinbein), <img src="https://i.imgur.com/vpup6pf.png" style="width: 24px; height: 24px;" alt="Glitch Logo" /> [Glitch](https://glitch.com/@davesheinbein), <img src="https://i.imgur.com/q48IMrm.png" style="width: 24px; height: 24px;" alt="Replit Logo" /> [Replit](https://replit.com/@davesheinbein)
 
 ---
 
@@ -366,4 +364,6 @@ _Sr. Technical Program/Project Manager_
 
 #### **Visitor Count**
 
-<img src="https://profile-counter.glitch.me/davesheinbein/count.svg?"  />
+<img src="https://profile-counter.glitch.me/davesheinbein/count.svg?" alt="Visitor count" />
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlwbnVwdHlmM2k2OXZ1OWZ3ODFuZzBuOHd1aGdjazd0aXBxYndxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" alt="Coding penguin" />
