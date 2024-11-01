@@ -236,168 +236,168 @@ _Sr. Technical Program/Project Manager_
 
 ### Projects
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/amazon-clone-ds">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=amazon-clone-ds" alt="amazon-clone-ds">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/api-express-app-lab">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=api-express-app-lab" alt="api-express-app-lab">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/binary-encoding">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=binary-encoding" alt="binary-encoding">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/calculator">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=calculator" alt="calculator">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/Chat-Bot">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=Chat-Bot" alt="Chat-Bot">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/coderbyte_coding_challenge">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=coderbyte_coding_challenge" alt="coderbyte_coding_challenge">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/conect-four-game">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=conect-four-game" alt="conect-four-game">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/covid-tracker">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=covid-tracker" alt="covid-tracker">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/django_finchcollector">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=django_finchcollector" alt="django_finchcollector">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/django_todos">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=django_todos" alt="django_todos">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/express-dev-skills">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=express-dev-skills" alt="express-dev-skills">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/express-generator">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=express-generator" alt="express-generator">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/netflix-clone-ds">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=netflix-clone-ds" alt="fakeflix">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/fun-functionalities">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=fun-functionalities" alt="fun-functionalities">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/inspirations">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=inspirations" alt="inspirations">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/i-message-clone-ui">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=i-message-clone-ui" alt="i-message-clone-ui">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/madlibs_python">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=madlibs_python" alt="madlibs_python">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/mongoose-flights">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=mongoose-flights" alt="mongoose-flights">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/nativeTimeTracker">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=nativeTimeTracker" alt="nativeTimeTracker">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/nativeToDoList">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=nativeToDoList" alt="nativeToDoList">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/netflix-clone-ds">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=netflix-clone-ds" alt="netflix-clone-ds">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/neon-strobe-animation">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=neon-strobe-animation" alt="neon-strobe-animation">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/python-exercises">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=python-exercises" alt="python-exercises">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/react-quiz-typescript">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=react-quiz-typescript" alt="quiz-app">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/react-context">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=react-context" alt="react-context">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/react-quiz-typescript">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=react-quiz-typescript" alt="react-quiz-typescript">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/react-star-wars">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=react-star-wars" alt="react-star-wars">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/realtime-chat">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=realtime-chat" alt="realtime-chat">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/realtime-circles">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=realtime-circles" alt="realtime-circles">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/responsive-header">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=responsive-header" alt="responsive-header">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/rock-paper-scissors">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=rock-paper-scissors" alt="rock-paper-scissors">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/spotify-clone-ds">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=spotify-clone-ds" alt="spotify-clone-ui">
     </a>
   </div>
-  <div style="flex: 1 1 45%; width: 45%; margin: 10px;">
+  <div>
     <a href="https://github.com/davesheinbein/tic-tac-toe">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=tic-tac-toe" alt="tic-tac-toe">
     </a>
