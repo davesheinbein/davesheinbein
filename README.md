@@ -234,7 +234,7 @@ _Sr. Technical Program/Project Manager_
 
 ---
 
-### Projects
+### Personal Projects
 
 <table>
   <tr>
@@ -243,18 +243,6 @@ _Sr. Technical Program/Project Manager_
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=amazon-clone-ds&cache_bust=1" alt="amazon-clone-ds">
       </a>
     </td>
-    <td>
-      <a href="https://github.com/davesheinbein/api-express-app-lab">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=api-express-app-lab&cache_bust=1" alt="api-express-app-lab">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/davesheinbein/binary-encoding">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=binary-encoding&cache_bust=1" alt="binary-encoding">
-      </a>
-    </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/davesheinbein/calculator">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=calculator&cache_bust=1" alt="calculator">
@@ -265,43 +253,21 @@ _Sr. Technical Program/Project Manager_
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=Chat-Bot&cache_bust=1" alt="Chat-Bot">
       </a>
     </td>
-    <td>
-      <a href="https://github.com/davesheinbein/coderbyte_coding_challenge">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=coderbyte_coding_challenge&cache_bust=1" alt="coderbyte_coding_challenge">
-      </a>
-    </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/davesheinbein/conect-four-game">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=conect-four-game&cache_bust=1" alt="conect-four-game">
-      </a>
-    </td>
     <td>
       <a href="https://github.com/davesheinbein/covid-tracker">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=covid-tracker&cache_bust=1" alt="covid-tracker">
       </a>
     </td>
     <td>
-      <a href="https://github.com/davesheinbein/django_finchcollector">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=django_finchcollector&cache_bust=1" alt="django_finchcollector">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/davesheinbein/django_todos">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=django_todos&cache_bust=1" alt="django_todos">
+      <a href="https://github.com/davesheinbein/netflix-clone-ds">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=netflix-clone-ds&cache_bust=1" alt="fakeflix">
       </a>
     </td>
     <td>
-      <a href="https://github.com/davesheinbein/express-dev-skills">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=express-dev-skills&cache_bust=1" alt="express-dev-skills">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/davesheinbein/express-generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=express-generator&cache_bust=1" alt="express-generator">
+      <a href="https://github.com/davesheinbein/fun-functionalities">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=fun-functionalities&cache_bust=1" alt="fun-functionalities">
       </a>
     </td>
   </tr>
@@ -312,17 +278,67 @@ _Sr. Technical Program/Project Manager_
       </a>
     </td>
     <td>
-      <a href="https://github.com/davesheinbein/neon-strobe-animation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=neon-strobe-animation&cache_bust=1" alt="neon-strobe-animation">
+      <a href="https://github.com/davesheinbein/react-quiz-typescript">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=react-quiz-typescript&cache_bust=1" alt="react-quiz-typescript">
       </a>
     </td>
     <td>
-      <a href="https://github.com/davesheinbein/python-exercises">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=python-exercises&cache_bust=1" alt="python-exercises">
+      <a href="https://github.com/davesheinbein/spotify-clone-ds">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=spotify-clone-ds&cache_bust=1" alt="spotify-clone">
       </a>
     </td>
   </tr>
-  <!-- Add more rows as needed -->
+  <tr>
+    <td>
+      <a href="https://github.com/davesheinbein/Practice-portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=practice-portfolio&cache_bust=1" alt="Sherlock’s Portfolio">
+      </a>
+    </td>
+    <td>
+      <a href="https://gist.github.com/davesheinbein/ScatterplotGraph">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=ScatterplotGraph&cache_bust=1" alt="Visualize Data with a Choropleth Map">
+      </a>
+    </td>
+    <td>
+      <a href="https://gist.github.com/davesheinbein/HeatMap">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=HeatMap&cache_bust=1" alt="Visualize Data with a Heat Map">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://gist.github.com/davesheinbein/ChoroplethMap">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=ChoroplethMap&cache_bust=1" alt="Visualize Data with a Scatterplot Graph">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/davesheinbein/PeriodicTableDatabase">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=PeriodicTableDatabase&cache_bust=1" alt="PeriodicTableDatabase">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/davesheinbein/NumberGuessingGame">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=NumberGuessingGame&cache_bust=1" alt="NumberGuessingGame">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/davesheinbein/celestialbodies">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=celestialbodies&cache_bust=1" alt="celestialbodies">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/davesheinbein/SalonAppointmentScheduler">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=SalonAppointmentScheduler&cache_bust=1" alt="SalonAppointmentScheduler">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/davesheinbein/worldcup">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=worldcup&cache_bust=1" alt="worldcup">
+      </a>
+    </td>
+  </tr>
 </table>
 
 <p align="left">
