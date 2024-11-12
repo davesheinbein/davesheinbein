@@ -394,4 +394,6 @@ _Sr. Technical Program/Project Manager_
 
 <img src="https://profile-counter.glitch.me/davesheinbein/count.svg?" alt="Visitor count" />
 
+<br/>
+
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlwbnVwdHlmM2k2OXZ1OWZ3ODFuZzBuOHd1aGdjazd0aXBxYndxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" alt="Coding penguin" />
