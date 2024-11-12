@@ -234,7 +234,13 @@ _Sr. Technical Program/Project Manager_
 
 ---
 
-### Personal Projects
+###### [Portfolio](https://davidsheinbeinengineer.com/) Project
+
+<a href="https://github.com/davesheinbein/modern_portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=modern_portfolio&cache_bust=1" alt="Portfolio" style="width: 100%;">
+</a>
+
+###### My Favorite Projects
 
 <table>
   <tr>
@@ -340,6 +346,12 @@ _Sr. Technical Program/Project Manager_
     </td>
   </tr>
 </table>
+
+###### Coding Practice/Review
+
+<a href="https://github.com/davesheinbein/Leetcode">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=Leetcode&cache_bust=1" alt="Leetcode" style="width: 100%;">
+</a>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
