@@ -300,19 +300,19 @@ _Sr. Technical Program/Project Manager_
       </a>
     </td>
     <td>
-      <a href="https://gist.github.com/davesheinbein/ScatterplotGraph">
+      <a href="https://github.com/davesheinbein/ScatterplotGraph">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=ScatterplotGraph&cache_bust=1" alt="Visualize Data with a Choropleth Map">
       </a>
     </td>
     <td>
-      <a href="https://gist.github.com/davesheinbein/HeatMap">
+      <a href="https://github.com/davesheinbein/HeatMap">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=HeatMap&cache_bust=1" alt="Visualize Data with a Heat Map">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://gist.github.com/davesheinbein/ChoroplethMap">
+      <a href="https://github.com/davesheinbein/ChoroplethMap">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=davesheinbein&repo=ChoroplethMap&cache_bust=1" alt="Visualize Data with a Scatterplot Graph">
       </a>
     </td>
